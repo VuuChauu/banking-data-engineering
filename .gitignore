@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+
+# PostgreSQL
+postgres_data/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Testing
+.pytest_cache/
+
+# Build
+dist/
+build/
+
+# Coverage
+.coverage
+htmlcov/
+
+# IDE
+.idea/
+
+# Data
+data/archive/
+
+# Temporary
+*.tmp

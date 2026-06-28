@@ -1,0 +1,47 @@
+Giải thích Docker
+
+Sau khi chạy
+
+docker compose up -d --build
+
+Docker sẽ tạo
+
+banking_postgres
+
+Database chính của project.
+
+banking_pgadmin
+
+Để quản lý PostgreSQL bằng giao diện web.
+airflow_postgres
+
+Database dành riêng cho Airflow.
+
+Không dùng chung với Data Warehouse.
+
+Đây là best practice.
+
+banking_airflow
+
+Scheduler + Web UI.
+
+
+
+### 
+dim_customer
+
+dim_branch
+
+dim_account
+
+dim_card
+
+dim_merchant
+
+fact_transaction
+
+fact_card_swipe
+
+fact_loan
+
+fact_loan_repayment
