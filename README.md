@@ -1,91 +1,93 @@
 # Banking Data Engineering Pipeline
 
-An end-to-end Data Engineering project that builds a modern banking ETL pipeline using Python, PostgreSQL, Apache Airflow, Docker, and AWS S3.
-
-The pipeline ingests raw banking datasets, transforms them into a dimensional Data Warehouse using a Star Schema, performs automated data quality validation, and orchestrates the entire workflow with Apache Airflow.
-
-> **Key Highlights**
->
-> * End-to-End ETL Pipeline
-> * PostgreSQL Data Warehouse
-> * Star Schema Modeling
-> * AWS S3 Integration
-> * Apache Airflow Orchestration
-> * Automated Data Quality Checks
-> * Dockerized Development Environment
+An end-to-end Data Engineering project that builds a complete ETL pipeline for banking transaction data. The project demonstrates modern data engineering practices, including data ingestion, cloud storage integration, data warehousing, workflow orchestration, and automated data quality validation.
 
 ---
 
-# Architecture
+# 1. Project Overview
+
+This project simulates a real-world banking data platform where transactional data is processed through multiple layers before being transformed into a dimensional Data Warehouse for analytics.
+
+The pipeline includes:
+
+- Raw data ingestion from CSV files
+- AWS S3 integration for data storage
+- PostgreSQL staging and warehouse layers
+- SQL-based ETL transformations
+- Star Schema data modeling
+- Automated data quality validation
+- Apache Airflow workflow orchestration
+- Dockerized deployment
+
+The primary objective is to demonstrate an end-to-end Data Engineering workflow suitable for analytical reporting and business intelligence.
+
+---
+
+# 2. System Architecture
 
 ```text
-                        Raw CSV Files
-                              │
-                              ▼
-                          AWS S3
-                     (raw / archive)
-                              │
-                              ▼
-                 Python Ingestion Layer
-                              │
-                              ▼
-                  PostgreSQL Staging
-                              │
-                              ▼
-                  SQL Transformations
-                              │
-                              ▼
-                 Data Warehouse Layer
-                (Dimension & Fact Tables)
-                              │
-                              ▼
-                    Analytics Views
-                              │
-                              ▼
-                 Data Quality Validation
-                              │
-                              ▼
-                   Apache Airflow DAG
+                         +----------------------+
+                         |   Banking CSV Data   |
+                         +----------+-----------+
+                                    |
+                                    |
+                                    ▼
+                         +----------------------+
+                         |        AWS S3        |
+                         |   raw / archive      |
+                         +----------+-----------+
+                                    |
+                                    ▼
+                    +-------------------------------+
+                    | Python Ingestion Layer         |
+                    | (Download & Load to Staging)   |
+                    +---------------+----------------+
+                                    |
+                                    ▼
+                       PostgreSQL Staging Database
+                                    |
+                                    ▼
+                    SQL Transformation (ETL Scripts)
+                                    |
+                                    ▼
+                   PostgreSQL Data Warehouse (Star Schema)
+                                    |
+                    +---------------+----------------+
+                    |                                |
+                    ▼                                ▼
+            Analytics Views                Data Quality Checks
+                    |                                |
+                    +---------------+----------------+
+                                    |
+                                    ▼
+                         Apache Airflow Scheduler
 ```
 
 ---
 
-# Project Objectives
+# 3. Technology Stack
 
-This project demonstrates how to:
+| Category | Technology |
+|----------|------------|
+| Programming Language | Python 3.11 |
+| Database | PostgreSQL 16 |
+| Data Processing | Pandas |
+| SQL | PostgreSQL SQL |
+| Cloud Storage | AWS S3 |
+| Workflow Orchestration | Apache Airflow |
+| Containerization | Docker & Docker Compose |
+| AWS SDK | Boto3 |
+| Database Driver | Psycopg2 |
+| Logging | Loguru |
 
-* Build an end-to-end ETL pipeline using Python and SQL.
-* Design a dimensional Data Warehouse using a Star Schema.
-* Automate data ingestion from AWS S3 into PostgreSQL.
-* Transform staging data into analytical warehouse tables.
-* Validate data quality through automated checks.
-* Orchestrate ETL workflows with Apache Airflow.
-* Deploy the complete environment using Docker.
-
----
-
-# Technology Stack
-
-| Category         | Technologies           |
-| ---------------- | ---------------------- |
-| Programming      | Python 3.11            |
-| Database         | PostgreSQL 16          |
-| SQL              | PostgreSQL SQL         |
-| Data Processing  | Pandas                 |
-| Cloud Storage    | AWS S3                 |
-| Workflow         | Apache Airflow         |
-| Containerization | Docker, Docker Compose |
-| AWS SDK          | Boto3                  |
-| Database Driver  | Psycopg2               |
-| Logging          | Loguru                 |
 
 ---
 
-# Project Structure
+# 4. Project Structure
 
 ```text
 banking-data-engineering/
-
+│
 ├── airflow/
 │   ├── dags/
 │   └── logs/
@@ -107,9 +109,9 @@ banking-data-engineering/
 ├── scripts/
 │   ├── aws/
 │   ├── ingestion/
-│   ├── warehouse/
+│   ├── pipeline/
 │   ├── quality/
-│   └── pipeline/
+│   └── warehouse/
 │
 ├── requirements.txt
 ├── docker-compose.yml
@@ -119,105 +121,25 @@ banking-data-engineering/
 
 ---
 
-# ETL Workflow
-
-The pipeline executes the following stages:
-
-1. Upload raw CSV files to AWS S3.
-2. Download datasets from S3.
-3. Load raw data into PostgreSQL staging tables.
-4. Execute warehouse DDL scripts.
-5. Transform staging data into dimension tables.
-6. Populate fact tables.
-7. Create analytics views.
-8. Execute automated data quality checks.
-9. Complete the ETL workflow through Apache Airflow.
-
----
-
-# Data Warehouse Design
-
-The warehouse follows a **Star Schema** architecture.
-
-## Dimension Tables
-
-* dim_customer
-* dim_account
-* dim_branch
-* dim_card
-* dim_merchant
-* dim_date
-
-## Fact Tables
-
-* fact_transaction
-* fact_card_swipe
-* fact_loan
-* fact_loan_repayment
-
----
-
-# Data Quality Validation
-
-The pipeline automatically validates warehouse data after each execution.
-
-Implemented checks include:
-
-* Row Count Validation
-* NULL Value Detection
-* Duplicate Detection
-* Pipeline Validation Reports
-
----
-
-# AWS S3 Features
-
-Supported operations include:
-
-* Upload files
-* Download files
-* Archive processed datasets
-* List bucket objects
-* Delete files
-* Batch cleanup utilities
-
----
-
-# Apache Airflow
-
-Apache Airflow orchestrates the complete ETL workflow.
-
-Pipeline tasks include:
-
-* Upload to AWS S3
-* Download from AWS S3
-* Load PostgreSQL Staging
-* Execute Warehouse DDL
-* Run SQL Transformations
-* Build Analytics Views
-* Execute Data Quality Checks
-
----
-
-# Installation
+# 5. Installation & Setup
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/banking-data-engineering.git
+git clone https://github.com/VuuChauu/banking-data-engineering.git
 
 cd banking-data-engineering
 ```
 
 ## Configure Environment
 
-Create a `.env` file from `.env.example`.
+Create a `.env` file based on `.env.example`.
 
 Configure:
 
-* PostgreSQL credentials
-* AWS credentials
-* Airflow configuration
+- PostgreSQL
+- AWS S3
+- Airflow
 
 ## Install Dependencies
 
@@ -225,62 +147,141 @@ Configure:
 pip install -r requirements.txt
 ```
 
-## Start Docker Services
+## Start Infrastructure
 
 ```bash
 docker compose up -d
 ```
 
-## Execute Full Pipeline
+## Execute the Complete Pipeline
 
 ```bash
 python -m scripts.pipeline.run_full_pipeline
 ```
 
----
+## Launch Airflow
 
-# Screenshots
+```
+http://localhost:8080
+```
 
-Include screenshots such as:
-
-* Airflow DAG
-* AWS S3 Bucket
-* PostgreSQL Tables
-* pgAdmin
-* Analytics Views
-* Data Quality Report
+Trigger the DAG from the Airflow UI to execute the pipeline automatically.
 
 ---
 
-# Future Improvements
+# 6. Data Flow
 
-* Incremental ETL
-* Change Data Capture (CDC)
-* dbt Transformations
-* Great Expectations
-* CI/CD with GitHub Actions
-* Apache Spark
-* Apache Kafka
-* Amazon Redshift
-* Snowflake
+The pipeline executes the following workflow:
 
----
-
-# Skills Demonstrated
-
-* Data Engineering
-* ETL Development
-* Data Warehouse Modeling
-* SQL Optimization
-* Python Automation
-* AWS S3
-* Apache Airflow
-* Docker
-* PostgreSQL
-* Data Quality Engineering
+1. Banking transaction datasets are stored as CSV files.
+2. CSV files are uploaded to AWS S3.
+3. Files are downloaded from S3 to the local raw directory.
+4. Python ingestion scripts load the data into PostgreSQL staging tables.
+5. SQL transformation scripts populate warehouse dimension tables.
+6. Fact tables are generated using business keys and surrogate keys.
+7. Analytics views are created for reporting.
+8. Automated quality checks validate warehouse integrity.
+9. Apache Airflow orchestrates the complete ETL process.
 
 ---
 
-# License
+# 7. Data Warehouse Design
 
-This project is licensed under the MIT License.
+The warehouse is implemented using a **Star Schema**.
+
+## Dimension Tables
+
+- dim_date
+- dim_customer
+- dim_account
+- dim_branch
+- dim_card
+- dim_merchant
+
+## Fact Tables
+
+- fact_transaction
+- fact_card_swipe
+- fact_loan
+- fact_loan_repayment
+
+The dimensional model simplifies analytical queries while improving reporting performance.
+
+---
+
+# 8. Data Quality Validation
+
+The project includes automated validation scripts executed after every warehouse refresh.
+
+Implemented quality checks include:
+
+### Row Count Validation
+
+Verifies that expected records exist across staging and warehouse layers.
+
+### NULL Validation
+
+Ensures mandatory business columns do not contain missing values.
+
+### Duplicate Detection
+
+Detects duplicate business keys within fact and dimension tables.
+
+These checks help maintain consistency and reliability throughout the ETL pipeline.
+
+---
+
+# 9. Airflow Workflow
+
+The Airflow DAG orchestrates the complete ETL process:
+
+```text
+Upload to S3
+      │
+      ▼
+Download from S3
+      │
+      ▼
+Load CSV to PostgreSQL
+      │
+      ▼
+Refresh Data Warehouse
+      │
+      ▼
+Run Data Quality Checks
+```
+
+Each task is executed sequentially with dependency management and execution logging.
+
+---
+
+# 10. Key Features
+
+- End-to-End ETL Pipeline
+- AWS S3 Data Lake Integration
+- PostgreSQL Data Warehouse
+- Star Schema Modeling
+- SQL-Based Transformations
+- Automated Data Quality Validation
+- Apache Airflow Orchestration
+- Dockerized Deployment
+- Centralized Logging
+- Modular Project Structure
+
+---
+
+# 11. Future Enhancements
+
+Potential improvements include:
+
+- Incremental ETL Processing
+- Change Data Capture (CDC)
+- dbt Transformation Framework
+- Great Expectations
+- Apache Spark Processing
+- Kafka Streaming Integration
+- Amazon Redshift
+- Snowflake Data Warehouse
+- CI/CD Pipeline with GitHub Actions
+
+---

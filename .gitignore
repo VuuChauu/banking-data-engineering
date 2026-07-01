@@ -2,30 +2,28 @@
 .env
 .env.*
 
+!.env.example
+
 # Python
+venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
+
+# Data
+data/raw/*
+data/archive/*
+
+!data/raw/.gitkeep
+!data/archive/.gitkeep
 
 # Logs
 logs/
-*.log
-
-# Airflow
 airflow/logs/
 
-# VSCode
+# IDE
 .vscode/
+.idea/
 
-# macOS
+# OS
 .DS_Store
-
-# pgAdmin
-pgadmin_data/
-
-# Docker volumes
-postgres_data/
-
-# Local data (optional)
-data/archive/*
+Thumbs.db
