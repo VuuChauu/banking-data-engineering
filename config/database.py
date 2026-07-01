@@ -1,19 +1,22 @@
 import os
-
+import psycopg2
 from dotenv import load_dotenv
 
 load_dotenv()
 
-POSTGRES_CONFIG = {
 
-    "host": os.getenv("LOCAL_POSTGRES_HOST"),
+def get_connection():
 
-    "port": os.getenv("POSTGRES_PORT"),
+    host = os.getenv("POSTGRES_HOST")
 
-    "database": os.getenv("POSTGRES_DB"),
+    # Nếu chạy ngoài Docker thì dùng localhost
+    if host == "postgres" and os.name == "nt":
+        host = "localhost"
 
-    "user": os.getenv("POSTGRES_USER"),
-
-    "password": os.getenv("POSTGRES_PASSWORD")
-
-}
+    return psycopg2.connect(
+        host=host,
+        port=os.getenv("POSTGRES_PORT"),
+        dbname=os.getenv("POSTGRES_DB"),
+        user=os.getenv("POSTGRES_USER"),
+        password=os.getenv("POSTGRES_PASSWORD"),
+    )

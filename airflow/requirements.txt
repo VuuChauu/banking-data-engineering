@@ -1,0 +1,8 @@
+loguru
+python-dotenv
+boto3
+botocore
+psycopg2-binary
+pandas
+openpyxl
+faker

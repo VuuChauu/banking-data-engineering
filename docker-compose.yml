@@ -7,11 +7,8 @@ services:
   #################################################
 
   postgres:
-
     image: postgres:16
-
     container_name: banking_postgres
-
     restart: always
 
     env_file:
@@ -31,25 +28,21 @@ services:
     networks:
       - banking_network
 
+
   #################################################
   # PGADMIN
   #################################################
 
   pgadmin:
-
     image: dpage/pgadmin4
-
     container_name: banking_pgadmin
-
     restart: always
 
     env_file:
       - .env
 
     environment:
-
       PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
-
       PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
 
     ports:
@@ -61,48 +54,41 @@ services:
     networks:
       - banking_network
 
+
   #################################################
   # AIRFLOW DATABASE
   #################################################
 
   airflow-db:
-
     image: postgres:16
-
     container_name: airflow_postgres
-
     restart: always
 
+    env_file:
+      - .env
+
     environment:
-
-      POSTGRES_USER: airflow
-
-      POSTGRES_PASSWORD: airflow
-
-      POSTGRES_DB: airflow
+      POSTGRES_USER: ${AIRFLOW_POSTGRES_USER}
+      POSTGRES_PASSWORD: ${AIRFLOW_POSTGRES_PASSWORD}
+      POSTGRES_DB: ${AIRFLOW_POSTGRES_DB}
 
     ports:
-
       - "5433:5432"
 
     volumes:
-
       - airflow_postgres:/var/lib/postgresql/data
 
     networks:
-
       - banking_network
+
 
   #################################################
   # AIRFLOW
   #################################################
 
   airflow:
-
     build:
-
       context: .
-
       dockerfile: docker/Dockerfile
 
     container_name: banking_airflow
@@ -110,64 +96,55 @@ services:
     restart: always
 
     env_file:
-
       - .env
 
     depends_on:
-
       - airflow-db
 
     ports:
-
       - "8080:8080"
 
     volumes:
+      # Mount entire project
+      - ./:/opt/airflow/project
 
+      # DAGs
       - ./airflow/dags:/opt/airflow/dags
 
+      # Logs
       - ./airflow/logs:/opt/airflow/logs
 
-      - ./scripts:/opt/airflow/scripts
-
-      - ./config:/opt/airflow/config
-
-      - ./data:/opt/airflow/data
+    working_dir: /opt/airflow/project
 
     command: >
       bash -c "
       airflow db migrate &&
       airflow users create
-      --username admin
-      --password admin123
+      --username ${AIRFLOW_ADMIN_USERNAME}
+      --password ${AIRFLOW_ADMIN_PASSWORD}
       --firstname Admin
       --lastname User
       --role Admin
-      --email admin@bank.com || true &&
+      --email ${AIRFLOW_ADMIN_EMAIL} || true &&
       airflow standalone
       "
 
     networks:
-
       - banking_network
 
+
 #################################################
-
 # NETWORK
-
 #################################################
 
 networks:
-
   banking_network:
 
+
 #################################################
-
-# VOLUME
-
+# VOLUMES
 #################################################
 
 volumes:
-
   postgres_data:
-
   airflow_postgres:

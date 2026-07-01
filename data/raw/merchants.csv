@@ -1,0 +1,2001 @@
+merchant_id,merchant_name,category,city
+1,Rocha-Clark,Hotel,Hue
+2,"Rasmussen, Jones and Stewart",Shopping,Ho Chi Minh
+3,Mccarthy LLC,Restaurant,Hanoi
+4,Ayala-Hull,Hotel,Hanoi
+5,"Mitchell, Powell and Davis",Supermarket,Ho Chi Minh
+6,Bates-Chen,Restaurant,Hue
+7,Perkins LLC,Shopping,Hue
+8,"Harding, King and Olson",Fuel,Da Nang
+9,"Johnson, Frank and Gilbert",Restaurant,Hanoi
+10,Cortez Ltd,Hotel,Hai Phong
+11,"Morales, Bowman and Lewis",Shopping,Ho Chi Minh
+12,"Davidson, White and Lee",Shopping,Hanoi
+13,Simmons PLC,Shopping,Hanoi
+14,Zhang-Hernandez,Fuel,Can Tho
+15,Chavez-Hill,Supermarket,Hue
+16,Myers Inc,Shopping,Can Tho
+17,Green Ltd,Supermarket,Hanoi
+18,Vaughn-Graham,Coffee,Ho Chi Minh
+19,"Contreras, Wong and Harrington",Fuel,Ho Chi Minh
+20,"Cobb, Meza and Knight",Restaurant,Ho Chi Minh
+21,Hudson-Kelley,Supermarket,Hai Phong
+22,Mclean Group,Hotel,Can Tho
+23,Simmons-Brown,Coffee,Da Nang
+24,Carter and Sons,Hotel,Hai Phong
+25,Davis Group,Hotel,Ho Chi Minh
+26,Robinson-Lamb,Hotel,Hue
+27,"Stewart, Ayala and Simmons",Restaurant,Hai Phong
+28,"Nichols, Jackson and Sullivan",Supermarket,Hanoi
+29,Franco and Sons,Fuel,Ho Chi Minh
+30,"Barnes, Price and Neal",Fuel,Hai Phong
+31,"Mcdowell, Clay and Garrison",Supermarket,Ho Chi Minh
+32,Hall Inc,Coffee,Hanoi
+33,Thompson-House,Shopping,Hue
+34,"Howard, Cook and Reed",Restaurant,Da Nang
+35,Warren Ltd,Hotel,Hai Phong
+36,Anderson PLC,Restaurant,Hanoi
+37,Gilbert-Freeman,Supermarket,Da Nang
+38,Porter Ltd,Hotel,Hanoi
+39,"Page, Johnson and Harris",Shopping,Ho Chi Minh
+40,"Santiago, Clements and Elliott",Supermarket,Can Tho
+41,"Wright, Nichols and Payne",Shopping,Can Tho
+42,Baker-Sims,Supermarket,Ho Chi Minh
+43,"Mcintyre, Young and Sullivan",Restaurant,Hanoi
+44,Thomas LLC,Restaurant,Hai Phong
+45,Allen PLC,Fuel,Ho Chi Minh
+46,Sims LLC,Fuel,Hai Phong
+47,Lyons-Stone,Coffee,Hai Phong
+48,Jenkins PLC,Fuel,Hanoi
+49,Morgan and Sons,Fuel,Hanoi
+50,Campbell-Norris,Coffee,Ho Chi Minh
+51,Scott and Sons,Coffee,Hai Phong
+52,Cameron Ltd,Coffee,Hai Phong
+53,Brady Ltd,Shopping,Ho Chi Minh
+54,"Mitchell, Robinson and Morris",Restaurant,Hai Phong
+55,Dunn-Andrews,Restaurant,Da Nang
+56,"Weaver, Fisher and Graham",Hotel,Ho Chi Minh
+57,Harvey LLC,Hotel,Can Tho
+58,Evans Inc,Supermarket,Can Tho
+59,Howard-Wiggins,Hotel,Hue
+60,"Henry, Jacobs and Adams",Shopping,Ho Chi Minh
+61,Griffin-Shepherd,Restaurant,Hue
+62,Bartlett Inc,Restaurant,Can Tho
+63,Montgomery-Gonzales,Coffee,Hanoi
+64,"Gallagher, Carr and Cannon",Shopping,Hanoi
+65,Lopez and Sons,Hotel,Can Tho
+66,Manning-Willis,Fuel,Can Tho
+67,Singh-King,Shopping,Hai Phong
+68,Giles Inc,Hotel,Hanoi
+69,Maldonado PLC,Shopping,Da Nang
+70,Anderson and Sons,Coffee,Hai Phong
+71,Garcia-Ford,Coffee,Da Nang
+72,Wallace Inc,Supermarket,Hue
+73,Shelton-White,Shopping,Hanoi
+74,Beck-Randall,Hotel,Hue
+75,"Richardson, White and Brown",Hotel,Da Nang
+76,Andrews-Rose,Restaurant,Hai Phong
+77,Rowland LLC,Hotel,Hai Phong
+78,Morgan LLC,Shopping,Hanoi
+79,Johnson Group,Shopping,Da Nang
+80,Williams and Sons,Hotel,Da Nang
+81,Gonzalez Ltd,Shopping,Da Nang
+82,Harris Ltd,Hotel,Hanoi
+83,Robinson Group,Supermarket,Hanoi
+84,Martin LLC,Fuel,Ho Chi Minh
+85,Brown LLC,Supermarket,Hai Phong
+86,Williams Ltd,Coffee,Hai Phong
+87,Porter PLC,Restaurant,Hanoi
+88,"Taylor, Jackson and Wall",Coffee,Hai Phong
+89,Brown Group,Supermarket,Can Tho
+90,"Ferguson, Tucker and Luna",Hotel,Da Nang
+91,"Ritter, Barker and Welch",Supermarket,Da Nang
+92,Villarreal and Sons,Shopping,Hue
+93,Lindsey Group,Restaurant,Hue
+94,"Graves, Brown and Dean",Shopping,Hue
+95,"Lee, Salas and Jones",Restaurant,Da Nang
+96,"Jackson, Rodriguez and Rowe",Hotel,Ho Chi Minh
+97,Myers-Cameron,Shopping,Hai Phong
+98,"Armstrong, Zimmerman and Hines",Coffee,Da Nang
+99,Whitney Inc,Shopping,Hue
+100,Allen Inc,Restaurant,Ho Chi Minh
+101,Adams-Thomas,Hotel,Hue
+102,Hall Inc,Shopping,Hue
+103,"Gonzales, Duffy and Hill",Supermarket,Da Nang
+104,Atkins LLC,Coffee,Hai Phong
+105,"Anderson, Fitzpatrick and Maxwell",Restaurant,Hue
+106,Sawyer PLC,Fuel,Hue
+107,Jimenez Inc,Restaurant,Da Nang
+108,Stephens-Scott,Restaurant,Can Tho
+109,Ross LLC,Fuel,Hai Phong
+110,Owen Ltd,Shopping,Da Nang
+111,Garcia-Rollins,Restaurant,Da Nang
+112,Garcia-Khan,Restaurant,Hue
+113,Murray PLC,Coffee,Da Nang
+114,"Sharp, Martinez and Carr",Restaurant,Da Nang
+115,Miller-Houston,Coffee,Hanoi
+116,Haney-Davidson,Shopping,Hai Phong
+117,"Armstrong, Church and Tapia",Supermarket,Hue
+118,"Bradley, Strong and Jackson",Restaurant,Hanoi
+119,Hampton-Evans,Hotel,Hanoi
+120,"Ochoa, Hughes and Esparza",Fuel,Hai Phong
+121,Pace and Sons,Fuel,Hai Phong
+122,"Spears, Carter and Gray",Shopping,Hai Phong
+123,Allen-Huynh,Supermarket,Ho Chi Minh
+124,Hoffman and Sons,Coffee,Can Tho
+125,Bush-Nguyen,Restaurant,Can Tho
+126,"Clark, Melton and Alvarez",Hotel,Hai Phong
+127,Carter-Wilkins,Coffee,Can Tho
+128,"Robinson, Henderson and King",Shopping,Hai Phong
+129,Oliver-Vega,Hotel,Hanoi
+130,Freeman-Goodman,Fuel,Da Nang
+131,"Spence, Flowers and Dougherty",Restaurant,Hue
+132,Sweeney LLC,Restaurant,Can Tho
+133,Orozco-Thomas,Restaurant,Hanoi
+134,Brooks LLC,Restaurant,Can Tho
+135,"Ramos, Palmer and Reynolds",Restaurant,Hue
+136,"Johnson, Kelly and Larson",Fuel,Ho Chi Minh
+137,Rodriguez Inc,Hotel,Can Tho
+138,"Sheppard, Cox and Mathis",Coffee,Hai Phong
+139,Hudson-York,Coffee,Ho Chi Minh
+140,Freeman-Parks,Hotel,Can Tho
+141,"Chapman, Stephens and Anderson",Coffee,Hanoi
+142,Mcclain-Wyatt,Supermarket,Hue
+143,"Davis, Lambert and King",Coffee,Hanoi
+144,"Jacobs, Rogers and Sanchez",Hotel,Ho Chi Minh
+145,Woods Group,Supermarket,Hai Phong
+146,Martinez-Boyd,Restaurant,Can Tho
+147,Proctor PLC,Supermarket,Hanoi
+148,Poole and Sons,Restaurant,Hanoi
+149,Foster-Webster,Restaurant,Hue
+150,"Buchanan, Hernandez and Hebert",Fuel,Hue
+151,"Cabrera, Harrison and Espinoza",Hotel,Hue
+152,Mccullough Group,Coffee,Ho Chi Minh
+153,"Montgomery, Nielsen and Dyer",Restaurant,Ho Chi Minh
+154,Nguyen LLC,Coffee,Hue
+155,Bass-Sharp,Shopping,Da Nang
+156,"Johnson, Chambers and Fleming",Coffee,Hanoi
+157,"Hunt, Carter and Martinez",Fuel,Da Nang
+158,"Deleon, Martinez and Coffey",Fuel,Can Tho
+159,Graves-Owens,Coffee,Ho Chi Minh
+160,Huber-Young,Coffee,Ho Chi Minh
+161,Salas Inc,Shopping,Hanoi
+162,Davis and Sons,Hotel,Ho Chi Minh
+163,Davis-Ramirez,Supermarket,Hanoi
+164,"Dunn, Thomas and Leach",Restaurant,Ho Chi Minh
+165,"Thompson, Harris and Moore",Fuel,Hanoi
+166,Herrera-White,Shopping,Da Nang
+167,Hawkins Ltd,Supermarket,Hanoi
+168,Jensen-Vasquez,Shopping,Hue
+169,Beltran Group,Fuel,Ho Chi Minh
+170,"Phillips, Williams and Rodriguez",Hotel,Da Nang
+171,Daugherty-Richards,Coffee,Hanoi
+172,"Moreno, Roberts and Lopez",Fuel,Hai Phong
+173,Wiley Group,Coffee,Ho Chi Minh
+174,Chen-Miller,Supermarket,Da Nang
+175,Meyer PLC,Shopping,Hue
+176,Obrien and Sons,Restaurant,Hai Phong
+177,Haas and Sons,Restaurant,Hai Phong
+178,Johnson Group,Supermarket,Hai Phong
+179,Shepherd-Murphy,Supermarket,Hai Phong
+180,"Pham, Johnson and Lopez",Restaurant,Da Nang
+181,Jones LLC,Restaurant,Hanoi
+182,Krause-Sanchez,Supermarket,Hanoi
+183,"Moore, Allison and Franklin",Coffee,Can Tho
+184,"Vazquez, Mullen and Sanchez",Fuel,Can Tho
+185,"Bolton, Ellis and Harrison",Shopping,Hai Phong
+186,"Perkins, White and Robinson",Shopping,Hai Phong
+187,Weaver Ltd,Coffee,Ho Chi Minh
+188,Jones Inc,Supermarket,Ho Chi Minh
+189,Mckinney and Sons,Coffee,Can Tho
+190,Wu-Schmidt,Restaurant,Hue
+191,Dickson-Tucker,Shopping,Hue
+192,"Mckenzie, Morales and Griffin",Coffee,Hanoi
+193,"Blackwell, Barry and Miller",Coffee,Ho Chi Minh
+194,Jones and Sons,Supermarket,Hai Phong
+195,Rivas-Andrews,Coffee,Ho Chi Minh
+196,Proctor-Mendoza,Shopping,Da Nang
+197,"Williamson, Kelley and Cook",Hotel,Hai Phong
+198,Evans LLC,Shopping,Ho Chi Minh
+199,"Romero, Morton and Robinson",Supermarket,Ho Chi Minh
+200,"Pollard, Montgomery and Moses",Restaurant,Hue
+201,Alvarez Ltd,Hotel,Da Nang
+202,Hernandez PLC,Hotel,Hue
+203,"Sloan, Rivera and Chandler",Restaurant,Hanoi
+204,Brown-Diaz,Hotel,Hanoi
+205,Richardson PLC,Fuel,Can Tho
+206,"Cook, Williams and Schmitt",Hotel,Ho Chi Minh
+207,Mayer-Lucero,Restaurant,Hanoi
+208,"Thomas, Oneill and Ross",Restaurant,Hai Phong
+209,"Shepherd, Hurley and Paul",Coffee,Can Tho
+210,Barrera Group,Hotel,Ho Chi Minh
+211,James-Gray,Fuel,Can Tho
+212,"Lawrence, Ryan and Wolfe",Coffee,Hai Phong
+213,Velasquez-French,Supermarket,Can Tho
+214,"Clark, Golden and Anderson",Fuel,Da Nang
+215,"Robinson, Ramirez and Perry",Fuel,Can Tho
+216,Ramos-Long,Coffee,Hue
+217,"Foster, Moore and Lambert",Coffee,Da Nang
+218,Padilla-Green,Shopping,Da Nang
+219,Powell Ltd,Hotel,Can Tho
+220,Walter Inc,Restaurant,Da Nang
+221,"Stewart, Moore and Moore",Coffee,Hue
+222,Fox Inc,Coffee,Hanoi
+223,Williams-Stewart,Hotel,Da Nang
+224,Colon LLC,Supermarket,Ho Chi Minh
+225,Waters Inc,Restaurant,Can Tho
+226,"Ray, Russell and Owens",Restaurant,Can Tho
+227,Newton-Bowen,Hotel,Hanoi
+228,Moody and Sons,Coffee,Da Nang
+229,"Simpson, Jones and Maxwell",Restaurant,Da Nang
+230,Peterson-Martin,Supermarket,Ho Chi Minh
+231,"Rodriguez, Bass and Robinson",Coffee,Can Tho
+232,"Flynn, Salazar and Huang",Coffee,Hanoi
+233,"Green, Cohen and Frye",Restaurant,Can Tho
+234,Baldwin Inc,Fuel,Ho Chi Minh
+235,Crawford-Gonzales,Coffee,Da Nang
+236,"Hernandez, Williams and Grant",Fuel,Hai Phong
+237,Bell PLC,Supermarket,Hanoi
+238,Barnes and Sons,Fuel,Hai Phong
+239,Mason Inc,Shopping,Da Nang
+240,Krueger Group,Restaurant,Hue
+241,Kennedy-Woods,Shopping,Can Tho
+242,Lang LLC,Coffee,Hai Phong
+243,Patterson-Lucas,Coffee,Hai Phong
+244,Gomez Group,Hotel,Hue
+245,"Clay, Franklin and Perez",Supermarket,Hue
+246,Evans LLC,Fuel,Hai Phong
+247,Anderson-Ballard,Shopping,Hue
+248,"George, Harper and Vargas",Fuel,Hue
+249,Adams-Guerrero,Hotel,Hue
+250,Pena Inc,Shopping,Ho Chi Minh
+251,"Mcdonald, Stevens and Jackson",Coffee,Ho Chi Minh
+252,Hardin-Haney,Restaurant,Hanoi
+253,"Whitney, Jackson and Shelton",Shopping,Hanoi
+254,"Harvey, Ryan and Wong",Supermarket,Can Tho
+255,Pena-Kemp,Fuel,Da Nang
+256,Richards-Martinez,Supermarket,Hai Phong
+257,Fisher Ltd,Supermarket,Hanoi
+258,Hines-Wagner,Shopping,Can Tho
+259,Guzman Ltd,Restaurant,Hanoi
+260,Jones Group,Supermarket,Da Nang
+261,Martinez-Huerta,Restaurant,Ho Chi Minh
+262,"Martin, Andrade and Freeman",Hotel,Ho Chi Minh
+263,Owens LLC,Hotel,Ho Chi Minh
+264,Campbell Inc,Coffee,Can Tho
+265,Sullivan LLC,Fuel,Da Nang
+266,Velasquez-Miller,Fuel,Hai Phong
+267,"Wilson, Stark and Hopkins",Fuel,Hai Phong
+268,Nunez Ltd,Fuel,Hai Phong
+269,Cole-Rodgers,Hotel,Hanoi
+270,Schwartz LLC,Supermarket,Ho Chi Minh
+271,Waters-Black,Supermarket,Hue
+272,Moore-Marshall,Coffee,Hanoi
+273,Gordon Group,Shopping,Hanoi
+274,Estrada-Walters,Coffee,Can Tho
+275,Wu-Benitez,Fuel,Ho Chi Minh
+276,"Morgan, Brown and Curtis",Supermarket,Da Nang
+277,Li-Rogers,Restaurant,Ho Chi Minh
+278,Ross LLC,Shopping,Can Tho
+279,Lopez-Frey,Restaurant,Ho Chi Minh
+280,Meyer-Gonzalez,Coffee,Hue
+281,"Alexander, Freeman and Ponce",Fuel,Da Nang
+282,Oliver-Pratt,Supermarket,Da Nang
+283,Hayden-Osborne,Coffee,Ho Chi Minh
+284,Cruz-Huffman,Restaurant,Da Nang
+285,"Flores, Adams and Parks",Restaurant,Da Nang
+286,Lopez-Diaz,Restaurant,Can Tho
+287,Warren Group,Hotel,Hai Phong
+288,Perez-Davis,Fuel,Hanoi
+289,"Bullock, Young and Hill",Supermarket,Hai Phong
+290,"Boyd, Hernandez and King",Hotel,Can Tho
+291,Green-Cline,Supermarket,Hanoi
+292,"Burns, Reed and Finley",Shopping,Da Nang
+293,Lynch LLC,Hotel,Can Tho
+294,"Price, Wallace and Terrell",Fuel,Hanoi
+295,Rodriguez-Hill,Restaurant,Hanoi
+296,Williams-Kelly,Restaurant,Da Nang
+297,Ferguson-Ortiz,Hotel,Ho Chi Minh
+298,Jordan Ltd,Hotel,Ho Chi Minh
+299,"Orozco, Ruiz and Tyler",Coffee,Can Tho
+300,Bradley-Steele,Supermarket,Can Tho
+301,"Colon, Clark and Cook",Hotel,Can Tho
+302,Haynes Group,Supermarket,Da Nang
+303,Holland-Weiss,Coffee,Ho Chi Minh
+304,Ruiz-Smith,Restaurant,Hue
+305,Chavez Group,Fuel,Hanoi
+306,"Ross, Flores and Rodriguez",Shopping,Ho Chi Minh
+307,Burns-Henderson,Restaurant,Da Nang
+308,"Payne, Reed and Mitchell",Hotel,Ho Chi Minh
+309,Roberts PLC,Coffee,Ho Chi Minh
+310,"Wolf, Larsen and Wilson",Coffee,Hanoi
+311,Baldwin Ltd,Coffee,Ho Chi Minh
+312,Norris and Sons,Hotel,Hue
+313,Hernandez Inc,Shopping,Ho Chi Minh
+314,Harris-Callahan,Coffee,Da Nang
+315,Jones Ltd,Fuel,Can Tho
+316,Thompson Ltd,Supermarket,Hai Phong
+317,Dawson Group,Supermarket,Hue
+318,Huff-Barry,Fuel,Hai Phong
+319,Stewart-Campbell,Supermarket,Hue
+320,"Lamb, Robles and Hodges",Shopping,Can Tho
+321,Berger-Jones,Coffee,Hai Phong
+322,"Gould, Brooks and Williamson",Coffee,Ho Chi Minh
+323,"Oconnell, Thompson and Moody",Coffee,Hanoi
+324,Garza Ltd,Hotel,Hanoi
+325,Simmons-Johns,Restaurant,Hai Phong
+326,Marshall-Bennett,Fuel,Hai Phong
+327,Fleming-Sanchez,Supermarket,Hanoi
+328,Alvarado-Mejia,Shopping,Hue
+329,"Hobbs, Sampson and Powers",Shopping,Hai Phong
+330,Burke Group,Fuel,Hue
+331,Charles LLC,Shopping,Can Tho
+332,"Davis, Miranda and Mendoza",Shopping,Hai Phong
+333,Hernandez-Roberts,Coffee,Hue
+334,"Dunn, Curry and Wade",Hotel,Hanoi
+335,Brown-Nelson,Hotel,Can Tho
+336,Spence and Sons,Fuel,Hue
+337,Flores PLC,Hotel,Hue
+338,"Thompson, Martin and Cross",Hotel,Hai Phong
+339,Carrillo-Kelly,Fuel,Can Tho
+340,Johnson-Hall,Restaurant,Da Nang
+341,Russell Inc,Supermarket,Hanoi
+342,Waters-Stark,Hotel,Can Tho
+343,Gonzales PLC,Coffee,Hanoi
+344,Kelly Inc,Hotel,Hue
+345,Perry PLC,Restaurant,Hanoi
+346,Kirk and Sons,Supermarket,Da Nang
+347,Bond-Fuller,Hotel,Hanoi
+348,Armstrong-Thomas,Supermarket,Hue
+349,"Carpenter, Freeman and Boyd",Hotel,Hue
+350,Beard-Torres,Supermarket,Da Nang
+351,Frederick and Sons,Shopping,Hanoi
+352,Harmon PLC,Supermarket,Hanoi
+353,Johnson-Roberts,Hotel,Ho Chi Minh
+354,Guerra and Sons,Fuel,Da Nang
+355,Montoya LLC,Restaurant,Hue
+356,"Johnson, Kelly and Thompson",Restaurant,Hanoi
+357,Krause Inc,Coffee,Da Nang
+358,"Williams, Krueger and Davis",Shopping,Hai Phong
+359,Jones LLC,Supermarket,Can Tho
+360,"Garza, Brown and Black",Coffee,Ho Chi Minh
+361,Riddle Ltd,Coffee,Da Nang
+362,Summers LLC,Shopping,Can Tho
+363,Wall LLC,Coffee,Da Nang
+364,Singleton-Woods,Shopping,Can Tho
+365,Wagner-Craig,Shopping,Hanoi
+366,Erickson-Jones,Restaurant,Hanoi
+367,"Arnold, Kim and Morrison",Restaurant,Da Nang
+368,Jackson-Reed,Fuel,Can Tho
+369,Cooley-Dennis,Supermarket,Hanoi
+370,"Weber, Quinn and Robinson",Restaurant,Hue
+371,Schultz-Rogers,Supermarket,Hue
+372,Lee PLC,Restaurant,Can Tho
+373,Hale Inc,Shopping,Ho Chi Minh
+374,"Henderson, Moore and Jackson",Restaurant,Hai Phong
+375,Walker and Sons,Hotel,Da Nang
+376,Romero Ltd,Shopping,Ho Chi Minh
+377,Owens-Little,Supermarket,Da Nang
+378,Lee Inc,Fuel,Ho Chi Minh
+379,Fisher-Jackson,Coffee,Da Nang
+380,"Reese, Ryan and Kelly",Hotel,Ho Chi Minh
+381,"Mahoney, Morrison and Turner",Hotel,Ho Chi Minh
+382,Brady Ltd,Supermarket,Hai Phong
+383,"Phelps, Mitchell and Hardy",Restaurant,Hue
+384,"Jones, Cook and Alvarez",Hotel,Da Nang
+385,"Spence, Martinez and Fuentes",Supermarket,Hue
+386,Vasquez-Parker,Restaurant,Hue
+387,Brock Inc,Coffee,Da Nang
+388,"Bryant, Smith and Meyer",Restaurant,Ho Chi Minh
+389,Brooks-Martin,Shopping,Can Tho
+390,"Martinez, Simpson and Wolfe",Hotel,Hanoi
+391,Hopkins Group,Hotel,Hue
+392,"Morales, Wagner and Trevino",Restaurant,Hue
+393,"Strong, Fields and Moran",Supermarket,Da Nang
+394,"Graham, Bennett and Dawson",Supermarket,Da Nang
+395,"Lewis, Moore and Burgess",Restaurant,Can Tho
+396,Evans-Curtis,Supermarket,Hue
+397,Rivas-Hill,Supermarket,Can Tho
+398,Gould Inc,Hotel,Ho Chi Minh
+399,Oliver-Wheeler,Hotel,Ho Chi Minh
+400,"Carrillo, Singleton and Logan",Coffee,Can Tho
+401,Jones-Greer,Shopping,Hanoi
+402,Watson LLC,Supermarket,Hue
+403,Deleon PLC,Coffee,Hue
+404,Owen-Leach,Supermarket,Can Tho
+405,Shaw Ltd,Hotel,Hanoi
+406,Lin-Snyder,Coffee,Da Nang
+407,Adams-Wilkins,Hotel,Hai Phong
+408,Mcmahon-Huber,Fuel,Hanoi
+409,Paul-Benitez,Supermarket,Da Nang
+410,Bishop Inc,Hotel,Hai Phong
+411,Parker PLC,Coffee,Da Nang
+412,Hicks-Baker,Coffee,Can Tho
+413,Allen PLC,Shopping,Ho Chi Minh
+414,Hebert-Sanchez,Supermarket,Hue
+415,"Brown, Fuentes and Warner",Hotel,Ho Chi Minh
+416,"Gutierrez, Garcia and Murphy",Coffee,Hanoi
+417,Castillo Group,Restaurant,Hai Phong
+418,"Hall, Whitehead and Woodard",Coffee,Ho Chi Minh
+419,Horne PLC,Supermarket,Da Nang
+420,Webb-Russell,Restaurant,Hanoi
+421,"Long, Ortiz and Copeland",Hotel,Hai Phong
+422,Thompson Inc,Supermarket,Hai Phong
+423,"Ashley, Vance and Brewer",Shopping,Hanoi
+424,Sanchez-Simpson,Hotel,Hue
+425,"Flores, Santos and Mcguire",Restaurant,Can Tho
+426,Wells PLC,Fuel,Can Tho
+427,"Gray, Carr and Marshall",Fuel,Da Nang
+428,"Lopez, Thompson and Singh",Restaurant,Da Nang
+429,Nicholson-Rodriguez,Restaurant,Hanoi
+430,"Martin, Mcbride and Bailey",Coffee,Hanoi
+431,Hamilton PLC,Fuel,Can Tho
+432,Roberson-Cardenas,Fuel,Hanoi
+433,"Rangel, Brown and Stewart",Restaurant,Ho Chi Minh
+434,Archer-Murphy,Hotel,Hue
+435,Allison LLC,Shopping,Ho Chi Minh
+436,Gray-Robinson,Coffee,Ho Chi Minh
+437,"Wilson, Walsh and Perez",Supermarket,Hue
+438,Pham PLC,Fuel,Can Tho
+439,"Russo, Foster and Walsh",Hotel,Can Tho
+440,"Vazquez, Blair and Hernandez",Supermarket,Da Nang
+441,Chapman-Anderson,Coffee,Hanoi
+442,"Smith, Baxter and Wade",Hotel,Can Tho
+443,"Zimmerman, Williams and Campbell",Shopping,Hue
+444,"Rojas, Torres and Hardy",Fuel,Da Nang
+445,Hull Ltd,Coffee,Da Nang
+446,Collins-Cooper,Fuel,Ho Chi Minh
+447,Mccarthy LLC,Coffee,Da Nang
+448,"Bullock, Gutierrez and Alexander",Restaurant,Hai Phong
+449,Hayes and Sons,Hotel,Hue
+450,"Pope, Smith and Simmons",Fuel,Da Nang
+451,Moran-Griffin,Restaurant,Hai Phong
+452,"Brock, Smith and Williams",Fuel,Hanoi
+453,Preston-Garcia,Coffee,Hanoi
+454,Morrison-Fuller,Fuel,Hanoi
+455,Rose-Gomez,Coffee,Ho Chi Minh
+456,Bowman Inc,Supermarket,Can Tho
+457,Chapman-Moran,Fuel,Hai Phong
+458,"Bowman, Ruiz and Wilkins",Restaurant,Hai Phong
+459,"Henson, Cowan and Turner",Fuel,Ho Chi Minh
+460,Brown-Robles,Fuel,Can Tho
+461,Gomez-Phillips,Restaurant,Da Nang
+462,Arnold Ltd,Fuel,Hanoi
+463,Casey Group,Shopping,Hai Phong
+464,Harris Ltd,Restaurant,Da Nang
+465,"Brown, Barnes and Hansen",Fuel,Hai Phong
+466,"Cook, Simpson and Martinez",Coffee,Hue
+467,"Jones, Contreras and Carpenter",Hotel,Hanoi
+468,"Gonzalez, Richardson and Weber",Supermarket,Da Nang
+469,Williams-Lambert,Shopping,Ho Chi Minh
+470,Lin Ltd,Shopping,Can Tho
+471,Hill Group,Shopping,Hanoi
+472,"Patterson, Kennedy and Villanueva",Shopping,Hai Phong
+473,Anderson Group,Hotel,Hai Phong
+474,Rodgers LLC,Coffee,Ho Chi Minh
+475,James Group,Shopping,Hanoi
+476,"Potts, Johnson and Price",Coffee,Hanoi
+477,"Wolf, Garner and Horne",Coffee,Hue
+478,Murphy-Bailey,Coffee,Ho Chi Minh
+479,Jackson LLC,Shopping,Hue
+480,"Woods, Scott and Hoffman",Coffee,Hai Phong
+481,Oliver-Wagner,Hotel,Hue
+482,Mitchell PLC,Supermarket,Da Nang
+483,"Allen, Martin and Owens",Restaurant,Hue
+484,"Green, Stanley and Morris",Supermarket,Ho Chi Minh
+485,Flores Ltd,Coffee,Hue
+486,Haas and Sons,Coffee,Hue
+487,Harrell LLC,Coffee,Ho Chi Minh
+488,"King, Flores and Decker",Hotel,Can Tho
+489,"Lee, Long and Hunter",Fuel,Ho Chi Minh
+490,Page Inc,Restaurant,Hue
+491,Brown PLC,Fuel,Hai Phong
+492,Harrison Group,Coffee,Ho Chi Minh
+493,"Wallace, Good and Rogers",Fuel,Ho Chi Minh
+494,"Huber, Brown and Sanchez",Supermarket,Ho Chi Minh
+495,"James, Johnson and Young",Shopping,Hai Phong
+496,Mendez-Thomas,Supermarket,Hanoi
+497,Gonzales PLC,Supermarket,Hue
+498,Manning Inc,Restaurant,Da Nang
+499,Bailey Group,Supermarket,Hai Phong
+500,Miller-Vaughan,Shopping,Hanoi
+501,"Vega, Perry and Oliver",Hotel,Hanoi
+502,Patrick-Floyd,Restaurant,Hanoi
+503,Manning Group,Restaurant,Da Nang
+504,"Howell, Gray and Morrison",Fuel,Ho Chi Minh
+505,Howell-Holland,Coffee,Can Tho
+506,"Barry, Clark and Short",Fuel,Ho Chi Minh
+507,Davis-Durham,Coffee,Da Nang
+508,Jones Ltd,Shopping,Can Tho
+509,Edwards-Johnson,Fuel,Hai Phong
+510,Jones Inc,Coffee,Da Nang
+511,"Brewer, Alvarez and Hatfield",Restaurant,Ho Chi Minh
+512,"Myers, Davis and Mcconnell",Fuel,Hue
+513,Mccormick-Jones,Hotel,Ho Chi Minh
+514,"Taylor, Moss and Escobar",Supermarket,Hanoi
+515,Reynolds-Williams,Restaurant,Hai Phong
+516,Salas Ltd,Restaurant,Da Nang
+517,"Williams, Jensen and Castaneda",Fuel,Hanoi
+518,Patrick-Cortez,Supermarket,Da Nang
+519,Fernandez PLC,Shopping,Da Nang
+520,"Maddox, Mccullough and Armstrong",Shopping,Can Tho
+521,"Miller, Smith and Johnson",Shopping,Hanoi
+522,"Cameron, Garcia and Walter",Hotel,Hue
+523,Carter LLC,Supermarket,Can Tho
+524,Gibson Inc,Coffee,Hai Phong
+525,Harris-Valenzuela,Fuel,Da Nang
+526,"Mcdaniel, Ramos and Smith",Restaurant,Hue
+527,Simpson-Wilson,Coffee,Hue
+528,"Green, Miller and Shepherd",Fuel,Hanoi
+529,"Shah, Alexander and Pitts",Coffee,Ho Chi Minh
+530,Rojas-Chen,Shopping,Da Nang
+531,"Medina, Andrews and Weeks",Coffee,Hanoi
+532,Roberts PLC,Fuel,Ho Chi Minh
+533,Ward Group,Hotel,Ho Chi Minh
+534,Beck-Snyder,Supermarket,Da Nang
+535,Thomas Ltd,Coffee,Da Nang
+536,"Hall, Barton and Macias",Coffee,Can Tho
+537,Jimenez and Sons,Supermarket,Hai Phong
+538,Butler Ltd,Supermarket,Da Nang
+539,Cohen Inc,Hotel,Ho Chi Minh
+540,Miller-Melendez,Fuel,Da Nang
+541,Lane Inc,Hotel,Da Nang
+542,Ruiz-Manning,Coffee,Da Nang
+543,Ayala Group,Restaurant,Hue
+544,Fox-Love,Hotel,Hanoi
+545,Gilbert-Mccann,Shopping,Ho Chi Minh
+546,"Campbell, Strickland and Cunningham",Fuel,Hai Phong
+547,Kelley-Wilkerson,Hotel,Can Tho
+548,Hernandez-Gomez,Restaurant,Ho Chi Minh
+549,"Brown, Martin and Quinn",Fuel,Hue
+550,"Johnson, Martin and Walters",Fuel,Hai Phong
+551,Molina-Rivera,Coffee,Hue
+552,Hart-Kelley,Hotel,Hai Phong
+553,Rhodes LLC,Hotel,Can Tho
+554,Miller-Wilkinson,Restaurant,Da Nang
+555,"Dixon, Mckinney and Robertson",Hotel,Da Nang
+556,"Wilkinson, Solis and Quinn",Shopping,Hue
+557,Williams and Sons,Restaurant,Can Tho
+558,"Macias, Lane and Lane",Coffee,Ho Chi Minh
+559,"Collier, Martinez and Harmon",Supermarket,Hue
+560,Miller LLC,Supermarket,Ho Chi Minh
+561,"Reed, Marquez and Martinez",Supermarket,Hue
+562,Mcdonald Group,Restaurant,Can Tho
+563,"Bray, Farrell and Smith",Shopping,Hanoi
+564,Gallagher Ltd,Supermarket,Can Tho
+565,Marquez-Taylor,Restaurant,Hue
+566,Alexander-Schultz,Fuel,Ho Chi Minh
+567,Young-Hughes,Coffee,Hanoi
+568,"Wang, Johnson and Galloway",Shopping,Hai Phong
+569,Kim-Smith,Coffee,Hue
+570,"King, Martinez and Morgan",Restaurant,Hanoi
+571,Gardner PLC,Hotel,Hue
+572,Mitchell-Carey,Hotel,Ho Chi Minh
+573,Jones LLC,Hotel,Ho Chi Minh
+574,Mendez-Schmidt,Coffee,Can Tho
+575,Ortiz-Harris,Hotel,Ho Chi Minh
+576,Ballard LLC,Shopping,Hai Phong
+577,Boyle-Roberts,Supermarket,Da Nang
+578,"Petty, Rodgers and Howell",Shopping,Hai Phong
+579,Brown LLC,Coffee,Can Tho
+580,"Lee, Scott and Delacruz",Shopping,Hai Phong
+581,"Nichols, Gonzalez and Miller",Shopping,Can Tho
+582,Martin Inc,Supermarket,Ho Chi Minh
+583,"Stanley, Perkins and Hicks",Restaurant,Da Nang
+584,Parrish and Sons,Coffee,Da Nang
+585,"Kaufman, Greer and Ford",Hotel,Can Tho
+586,Young-Hanson,Shopping,Ho Chi Minh
+587,Serrano-Williams,Fuel,Can Tho
+588,Allen Group,Coffee,Ho Chi Minh
+589,Johnson-Mendez,Restaurant,Hanoi
+590,Adams Ltd,Hotel,Can Tho
+591,Anderson-English,Fuel,Hue
+592,Guzman-Griffith,Shopping,Hai Phong
+593,"Hahn, Drake and Pineda",Fuel,Hue
+594,Wright-Herring,Restaurant,Hai Phong
+595,Clay Inc,Hotel,Hanoi
+596,Brown-Nichols,Coffee,Ho Chi Minh
+597,Mathews LLC,Hotel,Can Tho
+598,Hood PLC,Restaurant,Da Nang
+599,"Williams, Lopez and Dixon",Restaurant,Ho Chi Minh
+600,Campos-Le,Coffee,Can Tho
+601,"Spencer, Simon and Montgomery",Coffee,Hanoi
+602,Brown-Moore,Coffee,Can Tho
+603,Collins-Powell,Shopping,Hanoi
+604,Hamilton Ltd,Fuel,Hai Phong
+605,"Barr, Hudson and Rowland",Fuel,Ho Chi Minh
+606,Vaughan PLC,Fuel,Hai Phong
+607,"Carter, Cole and Sandoval",Restaurant,Can Tho
+608,"Manning, Pearson and Keller",Fuel,Ho Chi Minh
+609,"Acosta, Hughes and Roach",Hotel,Da Nang
+610,Richmond Group,Coffee,Ho Chi Minh
+611,"Barber, Myers and Camacho",Coffee,Ho Chi Minh
+612,Edwards Ltd,Shopping,Hue
+613,"Powell, Hopkins and Wood",Coffee,Hai Phong
+614,Garner LLC,Restaurant,Hue
+615,"Gregory, Cooley and Brown",Shopping,Hai Phong
+616,Callahan and Sons,Hotel,Hai Phong
+617,Morse-Pope,Restaurant,Hai Phong
+618,Soto-Beltran,Hotel,Hanoi
+619,Smith and Sons,Restaurant,Can Tho
+620,Wang-Hale,Coffee,Da Nang
+621,"Schaefer, Howard and Wade",Supermarket,Ho Chi Minh
+622,Fuller-Jones,Hotel,Ho Chi Minh
+623,Johnson and Sons,Shopping,Hanoi
+624,Schroeder Ltd,Fuel,Hai Phong
+625,"Stevens, Carter and Becker",Supermarket,Hai Phong
+626,"Johnston, York and Barrera",Fuel,Hanoi
+627,Shaw Ltd,Shopping,Hanoi
+628,Boyd and Sons,Hotel,Da Nang
+629,Johnson Inc,Hotel,Ho Chi Minh
+630,Mcguire PLC,Fuel,Ho Chi Minh
+631,Gibbs LLC,Hotel,Can Tho
+632,Henry-Francis,Restaurant,Hai Phong
+633,Henderson-Brown,Shopping,Ho Chi Minh
+634,"Travis, Cantu and Ford",Supermarket,Hue
+635,Smith-Lewis,Fuel,Can Tho
+636,"Nelson, Hoffman and Mcdonald",Hotel,Ho Chi Minh
+637,Henderson-Odonnell,Coffee,Hai Phong
+638,Stephens Ltd,Fuel,Can Tho
+639,Thornton-Phillips,Supermarket,Hai Phong
+640,Bishop Ltd,Fuel,Hanoi
+641,Owen Inc,Supermarket,Ho Chi Minh
+642,"Richmond, Keith and Lewis",Supermarket,Ho Chi Minh
+643,Riley LLC,Shopping,Can Tho
+644,Lopez Inc,Coffee,Can Tho
+645,Carter PLC,Shopping,Can Tho
+646,"Rollins, Sellers and Clark",Fuel,Hai Phong
+647,"Strong, Byrd and Campbell",Shopping,Da Nang
+648,Prince LLC,Shopping,Hai Phong
+649,Conley-Mora,Supermarket,Hai Phong
+650,"Woods, Franco and Chapman",Hotel,Can Tho
+651,"Buckley, Brady and Hill",Fuel,Hue
+652,Armstrong-Lynch,Coffee,Hai Phong
+653,Cox and Sons,Hotel,Hue
+654,Brown PLC,Hotel,Ho Chi Minh
+655,Cole-Robbins,Hotel,Hai Phong
+656,Brown-Lewis,Hotel,Hue
+657,"Frey, Davis and Sanchez",Restaurant,Da Nang
+658,Morgan LLC,Coffee,Hai Phong
+659,"Pope, Robertson and Gregory",Hotel,Hue
+660,"Steele, Rich and Combs",Shopping,Can Tho
+661,Crawford Inc,Hotel,Ho Chi Minh
+662,Proctor-Allen,Coffee,Hai Phong
+663,Green-White,Supermarket,Hai Phong
+664,Smith-Clark,Coffee,Can Tho
+665,"Francis, Ayala and Dunn",Supermarket,Hue
+666,Norman Inc,Coffee,Ho Chi Minh
+667,Cobb Group,Restaurant,Hai Phong
+668,Molina LLC,Shopping,Hue
+669,"Williams, Smith and Ward",Supermarket,Hai Phong
+670,Hernandez and Sons,Hotel,Hue
+671,"Smith, Mckay and Reed",Coffee,Ho Chi Minh
+672,Roberts-Berger,Hotel,Hue
+673,Grant-Pierce,Shopping,Hue
+674,Kramer LLC,Hotel,Da Nang
+675,"Moran, Robertson and Williams",Restaurant,Hai Phong
+676,Powell LLC,Restaurant,Hue
+677,"Delgado, Montgomery and Schmidt",Restaurant,Hai Phong
+678,Richards-Robinson,Shopping,Hai Phong
+679,"Cain, Evans and Wheeler",Restaurant,Da Nang
+680,Armstrong and Sons,Supermarket,Hanoi
+681,Torres PLC,Hotel,Da Nang
+682,"Mcdonald, Andrews and Andrews",Fuel,Hue
+683,Martinez-Gray,Supermarket,Can Tho
+684,Hanson-Stewart,Shopping,Hanoi
+685,Porter-Clark,Shopping,Da Nang
+686,Adkins-Nelson,Hotel,Hai Phong
+687,Smith and Sons,Fuel,Da Nang
+688,Tapia-Carey,Supermarket,Ho Chi Minh
+689,Mcintosh-Campos,Coffee,Hue
+690,Mcdonald Ltd,Coffee,Can Tho
+691,Beck-Donaldson,Shopping,Ho Chi Minh
+692,Farley and Sons,Coffee,Ho Chi Minh
+693,"Delacruz, Rodriguez and Edwards",Shopping,Ho Chi Minh
+694,Bernard Group,Fuel,Ho Chi Minh
+695,"Rodriguez, Lopez and Wall",Shopping,Hue
+696,Harrison Group,Restaurant,Can Tho
+697,"Alvarado, Patton and Mcfarland",Coffee,Hai Phong
+698,Cox Inc,Restaurant,Hai Phong
+699,Garcia PLC,Restaurant,Da Nang
+700,Holt-Curry,Shopping,Can Tho
+701,Smith-Stone,Hotel,Can Tho
+702,Wilson-Martinez,Supermarket,Ho Chi Minh
+703,"Colon, Brady and Gonzalez",Supermarket,Hanoi
+704,"Callahan, Burns and Coleman",Coffee,Hanoi
+705,Welch Ltd,Restaurant,Da Nang
+706,Cox-Floyd,Coffee,Ho Chi Minh
+707,"Lyons, Wyatt and Flores",Coffee,Da Nang
+708,Moody Group,Shopping,Hai Phong
+709,Schmidt-Johnson,Shopping,Hanoi
+710,Davis LLC,Restaurant,Hue
+711,Lee-Chandler,Coffee,Ho Chi Minh
+712,Rivera Group,Supermarket,Hue
+713,Hanson-Fox,Coffee,Hanoi
+714,"Randolph, Spencer and Griffin",Supermarket,Hai Phong
+715,Morrison LLC,Supermarket,Can Tho
+716,Stevenson-Sweeney,Hotel,Hue
+717,Wood-Williamson,Restaurant,Hue
+718,Williams PLC,Hotel,Hanoi
+719,Weber PLC,Shopping,Can Tho
+720,"Lynn, Allen and Melton",Fuel,Ho Chi Minh
+721,"Robinson, Medina and Reyes",Fuel,Hanoi
+722,Richard LLC,Coffee,Ho Chi Minh
+723,"Evans, Gould and Burke",Restaurant,Can Tho
+724,"Thomas, Kennedy and Perez",Coffee,Hue
+725,Hull Group,Supermarket,Hue
+726,"Cooper, Johnson and Edwards",Supermarket,Hanoi
+727,Hernandez-Smith,Hotel,Da Nang
+728,Hernandez-Walter,Supermarket,Hai Phong
+729,"Garza, Richards and Mendez",Fuel,Ho Chi Minh
+730,"Flores, Blevins and Lopez",Coffee,Da Nang
+731,Simmons-Pearson,Restaurant,Hanoi
+732,Simmons Ltd,Hotel,Hanoi
+733,"Poole, Wade and Velasquez",Fuel,Can Tho
+734,"Carr, Pierce and Gregory",Hotel,Hai Phong
+735,"Johnson, Allen and Mcbride",Hotel,Da Nang
+736,Martin PLC,Supermarket,Can Tho
+737,Quinn-Burke,Hotel,Ho Chi Minh
+738,Mccoy Inc,Hotel,Da Nang
+739,"Davis, Johnson and Ferguson",Shopping,Hanoi
+740,Mccoy-Watkins,Supermarket,Can Tho
+741,Anderson Group,Hotel,Can Tho
+742,Zimmerman-Moore,Supermarket,Da Nang
+743,"Howard, Jordan and Hamilton",Supermarket,Can Tho
+744,Duffy-Underwood,Coffee,Ho Chi Minh
+745,Sloan-Smith,Shopping,Can Tho
+746,Jones Inc,Supermarket,Hue
+747,Simmons-Nguyen,Supermarket,Hue
+748,Mendoza PLC,Supermarket,Ho Chi Minh
+749,Maxwell LLC,Coffee,Da Nang
+750,Elliott Inc,Fuel,Can Tho
+751,Smith-Howard,Supermarket,Hanoi
+752,"Parks, Horne and Ponce",Supermarket,Ho Chi Minh
+753,Sharp-Carr,Fuel,Hai Phong
+754,Welch Inc,Shopping,Hue
+755,Hanson PLC,Coffee,Da Nang
+756,Cowan and Sons,Coffee,Hai Phong
+757,"Richard, Norris and Bowers",Restaurant,Da Nang
+758,Barnes-Cruz,Restaurant,Can Tho
+759,Wall-Morse,Restaurant,Can Tho
+760,Long LLC,Shopping,Hue
+761,Brown Inc,Coffee,Hue
+762,Parker-Perez,Hotel,Da Nang
+763,Henderson-Thomas,Hotel,Hai Phong
+764,"Juarez, Jackson and Jenkins",Coffee,Hue
+765,Kemp-Sweeney,Supermarket,Hai Phong
+766,Jenkins-Griffin,Shopping,Hue
+767,Escobar-Carter,Fuel,Hanoi
+768,"Long, Braun and Stewart",Shopping,Hue
+769,Peterson LLC,Supermarket,Hai Phong
+770,Green PLC,Supermarket,Hue
+771,"Moreno, Harris and Calhoun",Restaurant,Ho Chi Minh
+772,Garcia-Green,Coffee,Ho Chi Minh
+773,"Martin, Jordan and Thomas",Supermarket,Hue
+774,Hancock and Sons,Fuel,Hanoi
+775,Brown-Woods,Fuel,Da Nang
+776,Gallagher PLC,Fuel,Hai Phong
+777,Reynolds-Odom,Coffee,Da Nang
+778,Underwood-Tyler,Coffee,Hai Phong
+779,Owens and Sons,Supermarket,Hue
+780,Becker Group,Restaurant,Ho Chi Minh
+781,"Campbell, Steele and Torres",Hotel,Ho Chi Minh
+782,Ware-Garcia,Shopping,Da Nang
+783,"Kramer, Rodriguez and Riley",Shopping,Hanoi
+784,Mueller-Patrick,Fuel,Ho Chi Minh
+785,Stafford and Sons,Restaurant,Hue
+786,Mcclain-Brooks,Supermarket,Ho Chi Minh
+787,Noble-Rivera,Hotel,Hue
+788,Doyle-Carter,Restaurant,Hue
+789,West-Macdonald,Fuel,Hai Phong
+790,Zimmerman-Smith,Coffee,Hai Phong
+791,Shah Inc,Restaurant,Hue
+792,Walker LLC,Fuel,Can Tho
+793,Marquez Ltd,Fuel,Hai Phong
+794,Miller Inc,Fuel,Hai Phong
+795,Duran-Stewart,Coffee,Hanoi
+796,George-Williams,Restaurant,Hue
+797,Kim-Roberson,Coffee,Da Nang
+798,"Taylor, Garner and Boyd",Coffee,Hai Phong
+799,"Stewart, Smith and Levine",Supermarket,Hue
+800,Li Ltd,Fuel,Hue
+801,Moore LLC,Coffee,Da Nang
+802,Robinson-Lara,Restaurant,Hai Phong
+803,Hamilton Ltd,Coffee,Hai Phong
+804,"Jennings, Rhodes and Simmons",Supermarket,Ho Chi Minh
+805,"Lee, Murphy and Woodward",Shopping,Hue
+806,Mason-Campbell,Fuel,Da Nang
+807,Adams-Cox,Fuel,Hai Phong
+808,Holland-Wood,Supermarket,Can Tho
+809,"Fleming, Daniels and Williams",Shopping,Ho Chi Minh
+810,Mccarty LLC,Shopping,Can Tho
+811,"Schmidt, Thomas and Pena",Supermarket,Hanoi
+812,"Mckinney, Webb and Munoz",Fuel,Ho Chi Minh
+813,"Williams, Alexander and Jones",Hotel,Ho Chi Minh
+814,"Smith, Foster and Weaver",Fuel,Hue
+815,"Coleman, Foster and Wilson",Fuel,Can Tho
+816,"Perez, Bolton and Kirby",Coffee,Can Tho
+817,"Stephenson, Brown and Clark",Hotel,Hanoi
+818,Williams-Miller,Fuel,Hanoi
+819,Meyer-Ryan,Hotel,Da Nang
+820,Mitchell PLC,Hotel,Da Nang
+821,Wu-Hernandez,Hotel,Ho Chi Minh
+822,Torres LLC,Fuel,Can Tho
+823,Garcia-Mendoza,Shopping,Can Tho
+824,Richards and Sons,Supermarket,Hanoi
+825,Roberts-Hurst,Restaurant,Hai Phong
+826,Lee-Lawrence,Shopping,Hanoi
+827,Harvey-Mathis,Coffee,Can Tho
+828,Smith LLC,Shopping,Ho Chi Minh
+829,"Glenn, Smith and Jacobs",Hotel,Hanoi
+830,Alvarez Group,Supermarket,Ho Chi Minh
+831,Zimmerman Group,Supermarket,Hanoi
+832,Best-Harris,Coffee,Hue
+833,"Brown, Garrett and Williamson",Coffee,Ho Chi Minh
+834,"Dickerson, Jones and Spence",Supermarket,Can Tho
+835,White and Sons,Coffee,Hai Phong
+836,Sanchez-Nunez,Supermarket,Can Tho
+837,"Beltran, Harvey and Baker",Supermarket,Ho Chi Minh
+838,Bentley PLC,Hotel,Hai Phong
+839,Caldwell-Smith,Fuel,Hai Phong
+840,Fox Inc,Restaurant,Da Nang
+841,Rowe PLC,Fuel,Can Tho
+842,"Arroyo, Chang and Meyers",Coffee,Can Tho
+843,"Johnson, Curtis and Obrien",Coffee,Ho Chi Minh
+844,"Hester, Frye and Brown",Supermarket,Can Tho
+845,Shaffer and Sons,Fuel,Can Tho
+846,Mcknight Inc,Hotel,Da Nang
+847,"Hunt, Peterson and Thompson",Supermarket,Hue
+848,Murphy-Doyle,Shopping,Ho Chi Minh
+849,Richardson Ltd,Restaurant,Da Nang
+850,Copeland Ltd,Hotel,Hanoi
+851,"Bowman, Kennedy and Mckay",Hotel,Hanoi
+852,Johnson-Simmons,Coffee,Da Nang
+853,Lee Group,Fuel,Ho Chi Minh
+854,"Garcia, Lyons and Gregory",Shopping,Hanoi
+855,Jackson Group,Shopping,Hai Phong
+856,"Fields, Rodriguez and Harper",Supermarket,Hue
+857,Allen-Sanford,Hotel,Hanoi
+858,Peters-Gross,Coffee,Hai Phong
+859,"Green, Brown and Sawyer",Supermarket,Ho Chi Minh
+860,Adams Inc,Shopping,Hue
+861,Holland Ltd,Hotel,Hai Phong
+862,Walker and Sons,Shopping,Ho Chi Minh
+863,Brown and Sons,Supermarket,Can Tho
+864,Fox-Baker,Coffee,Hanoi
+865,Wood PLC,Supermarket,Ho Chi Minh
+866,Moody Group,Hotel,Hue
+867,Wall-Salazar,Hotel,Can Tho
+868,Thomas and Sons,Restaurant,Hanoi
+869,Stephens-Fields,Restaurant,Hanoi
+870,"Miller, Rice and Howard",Restaurant,Hue
+871,"Chapman, Herrera and Galloway",Fuel,Da Nang
+872,Hunt Inc,Fuel,Da Nang
+873,"Harmon, Hart and Morales",Coffee,Hue
+874,Gonzalez Inc,Fuel,Can Tho
+875,Hunt Inc,Shopping,Hanoi
+876,Ward-Woods,Shopping,Da Nang
+877,Brooks PLC,Hotel,Hanoi
+878,Drake-Tucker,Shopping,Can Tho
+879,"Travis, Montoya and Barnes",Supermarket,Hai Phong
+880,Davidson Group,Hotel,Hai Phong
+881,"Bennett, Rangel and Dennis",Restaurant,Hanoi
+882,"Murillo, Ortega and Hudson",Shopping,Hanoi
+883,Cannon LLC,Hotel,Hanoi
+884,Villanueva Inc,Hotel,Can Tho
+885,West Ltd,Fuel,Can Tho
+886,"Drake, Collins and Smith",Coffee,Hue
+887,Rodriguez Inc,Shopping,Can Tho
+888,"Walker, Carr and Smith",Shopping,Hue
+889,Shaffer Ltd,Shopping,Ho Chi Minh
+890,Bush-Gallegos,Supermarket,Hue
+891,Washington-Taylor,Restaurant,Hanoi
+892,"Johnson, Chandler and Johnson",Supermarket,Ho Chi Minh
+893,Rodriguez-Perkins,Restaurant,Hanoi
+894,Palmer-Miranda,Hotel,Hai Phong
+895,Sanchez Inc,Hotel,Can Tho
+896,Kemp LLC,Shopping,Ho Chi Minh
+897,"Bishop, Gamble and Chavez",Supermarket,Ho Chi Minh
+898,Jackson Group,Shopping,Hanoi
+899,Baxter-Ellison,Restaurant,Can Tho
+900,Collins LLC,Fuel,Can Tho
+901,Frost-Hunt,Restaurant,Da Nang
+902,Morales-Baker,Supermarket,Hanoi
+903,Castillo Group,Fuel,Can Tho
+904,Robles-Curtis,Coffee,Can Tho
+905,Taylor LLC,Restaurant,Da Nang
+906,Holmes-Mathis,Shopping,Hue
+907,Jackson and Sons,Restaurant,Hue
+908,"Smith, Li and Wagner",Hotel,Ho Chi Minh
+909,Acosta-Durham,Shopping,Ho Chi Minh
+910,Valentine LLC,Restaurant,Can Tho
+911,"Hill, Hall and Coleman",Shopping,Da Nang
+912,Allen PLC,Hotel,Ho Chi Minh
+913,"Kelley, Johnson and Donovan",Shopping,Hai Phong
+914,"Conner, Douglas and Underwood",Coffee,Hue
+915,"Andrade, Walsh and Chan",Shopping,Hanoi
+916,Long PLC,Shopping,Ho Chi Minh
+917,Kim-Brooks,Restaurant,Da Nang
+918,Orozco-Coleman,Coffee,Da Nang
+919,Barker-Garrett,Hotel,Da Nang
+920,Patton-Torres,Supermarket,Hanoi
+921,Gonzalez and Sons,Supermarket,Hai Phong
+922,Lewis Inc,Fuel,Da Nang
+923,Miller-Perry,Restaurant,Hai Phong
+924,"Wilson, Mitchell and Wade",Restaurant,Can Tho
+925,Gregory-Elliott,Restaurant,Hai Phong
+926,Smith-Carpenter,Coffee,Hue
+927,Dunn Ltd,Coffee,Hanoi
+928,Johnson-Rose,Coffee,Ho Chi Minh
+929,"Patterson, Campbell and Brooks",Fuel,Hue
+930,Holmes Inc,Restaurant,Ho Chi Minh
+931,Summers Inc,Hotel,Hanoi
+932,Lowery and Sons,Supermarket,Hue
+933,"Williams, Pitts and Fowler",Shopping,Ho Chi Minh
+934,Oneill-Cervantes,Shopping,Hue
+935,Garner-Dixon,Hotel,Hue
+936,Nunez Group,Coffee,Ho Chi Minh
+937,Evans Inc,Restaurant,Ho Chi Minh
+938,Hill Inc,Shopping,Hai Phong
+939,Schmidt-Martin,Fuel,Hue
+940,Maldonado LLC,Restaurant,Hue
+941,Medina-Jones,Shopping,Can Tho
+942,Duran-Petersen,Restaurant,Ho Chi Minh
+943,Coleman-Moody,Shopping,Hai Phong
+944,Bell PLC,Restaurant,Hanoi
+945,"Bush, Smith and Willis",Coffee,Hanoi
+946,"Diaz, Whitaker and Ritter",Hotel,Hai Phong
+947,"Barnes, Douglas and Smith",Shopping,Hanoi
+948,Velasquez Inc,Supermarket,Hue
+949,Thomas PLC,Coffee,Hue
+950,Dillon Inc,Supermarket,Ho Chi Minh
+951,"Manning, Stanton and Adams",Supermarket,Can Tho
+952,Jenkins Group,Hotel,Hue
+953,Hamilton-Perkins,Shopping,Ho Chi Minh
+954,Martinez and Sons,Restaurant,Da Nang
+955,Smith-White,Fuel,Can Tho
+956,"Williams, Ward and Mccoy",Fuel,Hai Phong
+957,Cobb Inc,Coffee,Hai Phong
+958,"Everett, Boyer and Terry",Fuel,Can Tho
+959,"Lewis, Clark and Garcia",Supermarket,Can Tho
+960,Winters Ltd,Fuel,Hue
+961,Tran and Sons,Hotel,Hai Phong
+962,Irwin and Sons,Coffee,Ho Chi Minh
+963,"Miller, Bates and Mcguire",Coffee,Hai Phong
+964,Davila-Barton,Supermarket,Can Tho
+965,Carroll LLC,Hotel,Hai Phong
+966,Frazier LLC,Coffee,Hue
+967,"Bennett, Hudson and Herrera",Restaurant,Hanoi
+968,"Anderson, Munoz and Anderson",Shopping,Hai Phong
+969,Martin-Shaw,Hotel,Da Nang
+970,Noble Inc,Restaurant,Ho Chi Minh
+971,Reyes Ltd,Shopping,Hai Phong
+972,"Brooks, Osborne and Christensen",Coffee,Hue
+973,Thomas-Valenzuela,Hotel,Can Tho
+974,"Mitchell, Wilson and Williams",Restaurant,Hue
+975,Henderson-Clark,Supermarket,Hue
+976,"Moran, Lane and Schmidt",Supermarket,Hue
+977,Hogan-Lane,Hotel,Hanoi
+978,Nelson PLC,Shopping,Hue
+979,"Reed, Patterson and Bond",Shopping,Hue
+980,Garcia Group,Hotel,Hanoi
+981,Ramirez LLC,Restaurant,Ho Chi Minh
+982,Stone Ltd,Restaurant,Da Nang
+983,Russell-Flores,Hotel,Hai Phong
+984,Cervantes PLC,Shopping,Da Nang
+985,"Fernandez, Fox and Chan",Fuel,Can Tho
+986,"Cox, Carter and Campbell",Fuel,Hue
+987,Martinez-Rodriguez,Supermarket,Hue
+988,Sanders-Hensley,Hotel,Hue
+989,Holt-Sanchez,Hotel,Hue
+990,Richardson LLC,Shopping,Hai Phong
+991,"Ruiz, Brown and Martinez",Shopping,Hue
+992,Mendoza Group,Fuel,Ho Chi Minh
+993,"Newman, Hoffman and Lewis",Fuel,Can Tho
+994,Robinson-Jacobs,Supermarket,Hai Phong
+995,Lowe-Ball,Fuel,Hai Phong
+996,"Mcdaniel, Moore and Gomez",Shopping,Hanoi
+997,Willis-Barber,Supermarket,Hue
+998,Hart LLC,Supermarket,Hai Phong
+999,"Hunter, Baldwin and Smith",Supermarket,Ho Chi Minh
+1000,"Pennington, Sullivan and Gallagher",Supermarket,Da Nang
+1001,Lopez Group,Shopping,Can Tho
+1002,Henderson-Orozco,Coffee,Hai Phong
+1003,"Valencia, Smith and Dorsey",Shopping,Hue
+1004,Ross LLC,Restaurant,Ho Chi Minh
+1005,"Duncan, Larson and Stevens",Supermarket,Ho Chi Minh
+1006,"Hansen, Yu and Berry",Fuel,Hue
+1007,Lambert Group,Supermarket,Hue
+1008,Thompson-Barr,Coffee,Can Tho
+1009,"Callahan, Martinez and Brooks",Hotel,Hai Phong
+1010,Harris PLC,Fuel,Hai Phong
+1011,"Snyder, Douglas and Torres",Coffee,Hanoi
+1012,Reyes Ltd,Fuel,Hanoi
+1013,"Vang, Patel and Moore",Restaurant,Ho Chi Minh
+1014,"Fletcher, Wood and Gonzalez",Restaurant,Hai Phong
+1015,Knapp-Avila,Shopping,Hanoi
+1016,Cobb Group,Coffee,Hai Phong
+1017,"Martinez, Stanton and Moore",Fuel,Da Nang
+1018,Schultz-Morris,Restaurant,Da Nang
+1019,Williams and Sons,Hotel,Da Nang
+1020,Henson Group,Hotel,Hue
+1021,"Chen, Thompson and Atkins",Coffee,Hue
+1022,Peters and Sons,Hotel,Ho Chi Minh
+1023,"Robertson, Bowman and Horn",Fuel,Hai Phong
+1024,Wood-Duarte,Restaurant,Ho Chi Minh
+1025,Beltran Inc,Fuel,Hai Phong
+1026,"Adkins, Baker and Wilson",Coffee,Hanoi
+1027,Mitchell LLC,Supermarket,Can Tho
+1028,Rogers Ltd,Supermarket,Hai Phong
+1029,"Marshall, Little and Underwood",Shopping,Ho Chi Minh
+1030,Yu LLC,Hotel,Can Tho
+1031,Garcia Group,Shopping,Da Nang
+1032,Wang Group,Restaurant,Hanoi
+1033,"Scott, Contreras and Dodson",Supermarket,Da Nang
+1034,"Barnes, Thomas and Howard",Shopping,Hue
+1035,Harding PLC,Coffee,Hue
+1036,"Obrien, Collins and Gray",Restaurant,Hai Phong
+1037,"Carter, Pennington and Beard",Shopping,Hanoi
+1038,Shields-Cook,Coffee,Hai Phong
+1039,Grant-Tucker,Supermarket,Hue
+1040,Roach Inc,Shopping,Ho Chi Minh
+1041,"Lane, George and Wall",Hotel,Hai Phong
+1042,Miles-Nicholson,Supermarket,Ho Chi Minh
+1043,"Garcia, Davis and Arnold",Fuel,Da Nang
+1044,Daugherty-Campbell,Coffee,Hue
+1045,Kim LLC,Supermarket,Can Tho
+1046,Kim and Sons,Fuel,Hai Phong
+1047,Jones and Sons,Supermarket,Hai Phong
+1048,Hughes-Knapp,Coffee,Da Nang
+1049,Robinson Inc,Shopping,Ho Chi Minh
+1050,"Gaines, Hernandez and Glenn",Coffee,Hue
+1051,"Henry, Simon and Watson",Hotel,Hai Phong
+1052,"Hunt, Lindsey and Gonzales",Supermarket,Ho Chi Minh
+1053,"Garrison, Green and Lopez",Fuel,Hai Phong
+1054,Kemp and Sons,Shopping,Hue
+1055,Williams-Price,Shopping,Hanoi
+1056,Logan-Wells,Restaurant,Da Nang
+1057,"Henry, Velasquez and Gibbs",Shopping,Hai Phong
+1058,"Mccormick, Wright and Daniels",Shopping,Da Nang
+1059,"Cooper, Solis and Kim",Fuel,Can Tho
+1060,Carrillo-Rogers,Shopping,Hanoi
+1061,Fisher Ltd,Fuel,Can Tho
+1062,Clark-Carney,Restaurant,Hai Phong
+1063,Trujillo-Gutierrez,Fuel,Can Tho
+1064,Mcdonald-Grant,Shopping,Hue
+1065,Oliver-Huynh,Shopping,Hai Phong
+1066,Flores-Taylor,Supermarket,Hai Phong
+1067,Price-Martinez,Restaurant,Hue
+1068,"Williams, Soto and Campbell",Restaurant,Hue
+1069,Sanchez-Bowers,Coffee,Ho Chi Minh
+1070,"Taylor, Burke and Mcneil",Hotel,Can Tho
+1071,Pierce Group,Shopping,Hue
+1072,Weiss-Sanders,Restaurant,Hai Phong
+1073,Stewart Ltd,Coffee,Can Tho
+1074,"Mack, Garcia and Clark",Supermarket,Ho Chi Minh
+1075,Key Inc,Shopping,Ho Chi Minh
+1076,"Lopez, Rowe and Maxwell",Fuel,Hai Phong
+1077,"Sullivan, Cook and Wilcox",Fuel,Ho Chi Minh
+1078,"White, Williams and Williams",Hotel,Ho Chi Minh
+1079,Ellis-Singleton,Coffee,Hai Phong
+1080,"Lane, Cook and Lawrence",Shopping,Hue
+1081,"Moore, Gordon and Mason",Hotel,Hai Phong
+1082,Bruce-Duncan,Fuel,Can Tho
+1083,"Turner, Lynn and Fleming",Hotel,Can Tho
+1084,Mullins and Sons,Fuel,Can Tho
+1085,"Harris, Walker and Tapia",Coffee,Ho Chi Minh
+1086,"Lewis, Harrison and Brandt",Coffee,Ho Chi Minh
+1087,Lewis-Wilson,Hotel,Hai Phong
+1088,Wallace-Buck,Hotel,Hanoi
+1089,"Burton, Jones and Williams",Shopping,Ho Chi Minh
+1090,Tanner-Riley,Fuel,Hue
+1091,Patterson-Bradford,Hotel,Hue
+1092,"Morton, Figueroa and Baker",Fuel,Hai Phong
+1093,Vargas-Bullock,Shopping,Can Tho
+1094,Greer LLC,Supermarket,Hue
+1095,Grant PLC,Fuel,Can Tho
+1096,"Stewart, Hamilton and Perry",Supermarket,Can Tho
+1097,Meyers PLC,Hotel,Ho Chi Minh
+1098,Baxter Inc,Restaurant,Ho Chi Minh
+1099,Brooks-Cardenas,Fuel,Hue
+1100,Mcfarland-Good,Shopping,Hue
+1101,Wong Group,Shopping,Hue
+1102,"Reyes, Johnson and Johnson",Shopping,Hue
+1103,"Rodgers, Smith and Santana",Coffee,Hanoi
+1104,Hickman-Williams,Fuel,Hanoi
+1105,Taylor Inc,Hotel,Ho Chi Minh
+1106,"Obrien, Thompson and Nelson",Fuel,Da Nang
+1107,"Patel, Valdez and Wilkinson",Supermarket,Hai Phong
+1108,Wilson Inc,Restaurant,Ho Chi Minh
+1109,"Santiago, Martinez and Garcia",Shopping,Da Nang
+1110,"Holden, Acevedo and Bautista",Restaurant,Hue
+1111,Clements and Sons,Fuel,Ho Chi Minh
+1112,Nelson Group,Hotel,Hue
+1113,"Dean, Lopez and Lewis",Restaurant,Hue
+1114,Thompson LLC,Shopping,Can Tho
+1115,"Scott, Travis and Willis",Fuel,Hai Phong
+1116,Adams-Jones,Coffee,Ho Chi Minh
+1117,"Riley, Sullivan and Salinas",Hotel,Da Nang
+1118,"Evans, Miller and Bradley",Supermarket,Hanoi
+1119,Mcguire-Jones,Restaurant,Can Tho
+1120,Martin-Young,Hotel,Hai Phong
+1121,Farmer Inc,Restaurant,Ho Chi Minh
+1122,Gonzalez-Kim,Restaurant,Da Nang
+1123,Mcdonald-Olson,Coffee,Hai Phong
+1124,Perez-Greene,Restaurant,Hai Phong
+1125,Mckay LLC,Hotel,Hai Phong
+1126,Flores Group,Supermarket,Hue
+1127,"Davis, Little and Perry",Coffee,Ho Chi Minh
+1128,Lawson Group,Shopping,Hai Phong
+1129,Gonzalez Ltd,Hotel,Hai Phong
+1130,Perez-Romero,Restaurant,Hanoi
+1131,Silva-Hill,Hotel,Hanoi
+1132,Cannon-Jackson,Hotel,Hanoi
+1133,Ryan Group,Shopping,Da Nang
+1134,Lopez-Thompson,Hotel,Da Nang
+1135,Garcia-Fischer,Fuel,Can Tho
+1136,"Jensen, Sanders and Taylor",Restaurant,Can Tho
+1137,Harrington-Miller,Restaurant,Hai Phong
+1138,Sherman and Sons,Coffee,Da Nang
+1139,"Stone, Martin and Floyd",Restaurant,Hai Phong
+1140,Harrell and Sons,Shopping,Hanoi
+1141,Johnson Ltd,Restaurant,Da Nang
+1142,Anderson-Johnson,Hotel,Ho Chi Minh
+1143,Lee Ltd,Restaurant,Hai Phong
+1144,Houston-Landry,Hotel,Ho Chi Minh
+1145,Taylor Ltd,Restaurant,Hai Phong
+1146,Doyle-Hunter,Coffee,Hai Phong
+1147,Hernandez PLC,Fuel,Da Nang
+1148,Jones Group,Fuel,Ho Chi Minh
+1149,Harris Group,Coffee,Da Nang
+1150,Martinez Ltd,Fuel,Ho Chi Minh
+1151,Wright-Wright,Shopping,Ho Chi Minh
+1152,"Gutierrez, Green and Brooks",Hotel,Can Tho
+1153,Heath PLC,Shopping,Da Nang
+1154,Mitchell LLC,Restaurant,Can Tho
+1155,"Wolf, Whitehead and Cannon",Restaurant,Hai Phong
+1156,White LLC,Restaurant,Hue
+1157,"Brewer, Hammond and Delgado",Supermarket,Da Nang
+1158,Byrd-Hull,Restaurant,Hanoi
+1159,"Pollard, Mcdaniel and Bryant",Hotel,Da Nang
+1160,"Duarte, Smith and Sims",Supermarket,Ho Chi Minh
+1161,"Stevens, Nelson and Bennett",Shopping,Hai Phong
+1162,Valentine-Ellis,Hotel,Hanoi
+1163,"Gonzales, Friedman and Orozco",Supermarket,Ho Chi Minh
+1164,"Reynolds, Jefferson and Moore",Coffee,Ho Chi Minh
+1165,Green PLC,Fuel,Da Nang
+1166,"Mooney, Sampson and Jenkins",Coffee,Hanoi
+1167,Henry PLC,Shopping,Da Nang
+1168,"Rodriguez, Pearson and Mcmahon",Hotel,Da Nang
+1169,Becker-Schmitt,Restaurant,Hue
+1170,Kim-Bell,Coffee,Da Nang
+1171,Valdez Group,Coffee,Ho Chi Minh
+1172,Fernandez-Morales,Restaurant,Hue
+1173,Edwards-Morris,Coffee,Hanoi
+1174,Vasquez-Cameron,Hotel,Can Tho
+1175,"Nguyen, Wolf and Green",Fuel,Hue
+1176,Wilson-Nolan,Fuel,Hanoi
+1177,Gardner-Phillips,Shopping,Hai Phong
+1178,"Walsh, Mendoza and Webb",Restaurant,Ho Chi Minh
+1179,"Nichols, May and Caldwell",Restaurant,Hai Phong
+1180,Contreras Group,Fuel,Hue
+1181,"Holland, Collier and Murphy",Coffee,Can Tho
+1182,"Romero, Drake and Perkins",Shopping,Hue
+1183,Mcneil PLC,Supermarket,Ho Chi Minh
+1184,"Lucas, Merritt and Michael",Supermarket,Hai Phong
+1185,"Woods, Mcmillan and Welch",Coffee,Can Tho
+1186,"Douglas, Thompson and Williamson",Supermarket,Can Tho
+1187,"Taylor, Rivera and Parrish",Hotel,Can Tho
+1188,"Cortez, Bennett and Fitzgerald",Fuel,Da Nang
+1189,"Cooley, Maddox and Moreno",Supermarket,Ho Chi Minh
+1190,"Smith, Robles and Barnes",Hotel,Hue
+1191,Chandler Ltd,Restaurant,Hue
+1192,Dixon-Cordova,Hotel,Can Tho
+1193,Webster-Lowery,Supermarket,Hue
+1194,Williams-Simmons,Hotel,Can Tho
+1195,"Martinez, Smith and Butler",Shopping,Da Nang
+1196,"Jones, Hodges and Smith",Fuel,Hanoi
+1197,"Baker, Garcia and Campbell",Coffee,Hue
+1198,Gonzalez and Sons,Supermarket,Da Nang
+1199,"Bartlett, Bond and Combs",Hotel,Da Nang
+1200,Harris LLC,Restaurant,Hai Phong
+1201,Allen Inc,Fuel,Can Tho
+1202,"Johnson, Woods and Gardner",Shopping,Ho Chi Minh
+1203,"Cruz, Roach and Smith",Shopping,Ho Chi Minh
+1204,"Sharp, Martinez and Mcgee",Supermarket,Hue
+1205,Mills PLC,Hotel,Ho Chi Minh
+1206,Browning-Davis,Supermarket,Da Nang
+1207,"Hill, Jackson and Harrington",Fuel,Hue
+1208,Price Ltd,Shopping,Hue
+1209,Johnson-Wolfe,Shopping,Ho Chi Minh
+1210,Salazar-King,Supermarket,Ho Chi Minh
+1211,Campbell-Sharp,Hotel,Ho Chi Minh
+1212,Paul-Anderson,Restaurant,Ho Chi Minh
+1213,"Rivera, Bowen and Paul",Coffee,Hanoi
+1214,"Moody, Velazquez and Ortiz",Restaurant,Hanoi
+1215,Ferguson-Carter,Restaurant,Hanoi
+1216,"Price, Navarro and Berry",Hotel,Hai Phong
+1217,Rush and Sons,Supermarket,Can Tho
+1218,Marsh Group,Supermarket,Hue
+1219,Lamb Inc,Supermarket,Da Nang
+1220,Whitney-Mora,Hotel,Can Tho
+1221,Martin LLC,Fuel,Da Nang
+1222,Savage LLC,Coffee,Ho Chi Minh
+1223,Cook PLC,Shopping,Can Tho
+1224,Phillips Ltd,Hotel,Hai Phong
+1225,Hines-King,Coffee,Ho Chi Minh
+1226,Gilmore Group,Restaurant,Hai Phong
+1227,Lopez-Johnston,Fuel,Can Tho
+1228,Choi-Phillips,Restaurant,Can Tho
+1229,Buchanan-Robertson,Fuel,Da Nang
+1230,Sparks-Marsh,Shopping,Hue
+1231,Tucker-White,Shopping,Can Tho
+1232,Cooley-Harris,Coffee,Hanoi
+1233,Thomas Group,Supermarket,Hanoi
+1234,"Ferguson, Hamilton and Bates",Supermarket,Hue
+1235,"Lynch, Hanson and Riley",Fuel,Hai Phong
+1236,Lopez-Reyes,Fuel,Can Tho
+1237,Alexander Inc,Shopping,Hanoi
+1238,"Boyer, Gardner and Johnson",Restaurant,Can Tho
+1239,Espinoza Group,Hotel,Da Nang
+1240,Garrison-Chung,Hotel,Hue
+1241,Klein PLC,Restaurant,Hue
+1242,Long-Osborne,Fuel,Ho Chi Minh
+1243,Paul Group,Supermarket,Hanoi
+1244,Rios LLC,Shopping,Can Tho
+1245,Reed Group,Supermarket,Can Tho
+1246,Johnson-Walker,Shopping,Hai Phong
+1247,Barnes-Blake,Fuel,Can Tho
+1248,Obrien-Bradford,Restaurant,Hue
+1249,"Shelton, Taylor and Matthews",Hotel,Da Nang
+1250,Campbell-Daugherty,Coffee,Hue
+1251,Willis-Sexton,Supermarket,Ho Chi Minh
+1252,"Patterson, Johnson and Garner",Coffee,Ho Chi Minh
+1253,"Cardenas, Collins and Roberts",Coffee,Hai Phong
+1254,"Harris, Walton and Rhodes",Shopping,Hue
+1255,Glover Group,Fuel,Hue
+1256,Dawson-Collins,Shopping,Da Nang
+1257,Tucker and Sons,Restaurant,Can Tho
+1258,Flores-Gibson,Shopping,Da Nang
+1259,Klein-Smith,Restaurant,Ho Chi Minh
+1260,Hampton Group,Shopping,Hue
+1261,"Martin, Reed and Martin",Supermarket,Can Tho
+1262,Washington-Hernandez,Restaurant,Da Nang
+1263,Vargas-Singleton,Shopping,Hue
+1264,Rivera PLC,Fuel,Hanoi
+1265,Sheppard Ltd,Fuel,Hanoi
+1266,"Baker, Terry and Hamilton",Hotel,Hai Phong
+1267,Brooks-Davis,Shopping,Hanoi
+1268,Martinez Inc,Coffee,Da Nang
+1269,Taylor-Jackson,Hotel,Hanoi
+1270,Austin and Sons,Coffee,Da Nang
+1271,Perez-Booker,Coffee,Hai Phong
+1272,"Hanson, Mcbride and Sullivan",Hotel,Hue
+1273,Caldwell LLC,Fuel,Hai Phong
+1274,Young Inc,Coffee,Hai Phong
+1275,Ramirez Inc,Fuel,Hai Phong
+1276,Lam Inc,Shopping,Ho Chi Minh
+1277,Mendoza-Allen,Coffee,Ho Chi Minh
+1278,Hatfield-Sanford,Restaurant,Ho Chi Minh
+1279,"Merritt, Palmer and Thomas",Coffee,Can Tho
+1280,Harding Group,Shopping,Hue
+1281,"Arnold, Edwards and Hernandez",Fuel,Ho Chi Minh
+1282,Hardy-Alexander,Supermarket,Hanoi
+1283,Moon-Smith,Hotel,Can Tho
+1284,Jackson Inc,Supermarket,Can Tho
+1285,Garcia-Lawson,Hotel,Hue
+1286,"Robinson, Smith and Ramsey",Hotel,Hue
+1287,Dickerson-Norris,Shopping,Ho Chi Minh
+1288,"Dean, Hernandez and Morris",Coffee,Can Tho
+1289,Fisher PLC,Fuel,Hanoi
+1290,Holloway PLC,Coffee,Can Tho
+1291,Patel Ltd,Fuel,Hai Phong
+1292,Good and Sons,Restaurant,Ho Chi Minh
+1293,"Andrews, Key and Moore",Shopping,Hai Phong
+1294,Jenkins LLC,Shopping,Hanoi
+1295,Tanner-Allen,Hotel,Hai Phong
+1296,"Hernandez, Ramirez and Davis",Fuel,Can Tho
+1297,Roy LLC,Shopping,Ho Chi Minh
+1298,"Evans, Oliver and Smith",Coffee,Can Tho
+1299,Edwards-Morse,Supermarket,Hue
+1300,Nguyen-Hudson,Fuel,Hai Phong
+1301,"Singh, Boyd and Scott",Shopping,Hanoi
+1302,Watkins-Graves,Hotel,Can Tho
+1303,Larson Inc,Shopping,Ho Chi Minh
+1304,Franklin-Lopez,Fuel,Hai Phong
+1305,Burke PLC,Supermarket,Da Nang
+1306,Cooley LLC,Supermarket,Ho Chi Minh
+1307,"Wolfe, Howell and Jones",Restaurant,Can Tho
+1308,"Kelley, Hill and Andrade",Supermarket,Hue
+1309,Contreras-Lewis,Coffee,Ho Chi Minh
+1310,Gibson Ltd,Supermarket,Hue
+1311,Johnson and Sons,Shopping,Can Tho
+1312,Merritt-Davis,Supermarket,Hanoi
+1313,Wood-Washington,Shopping,Can Tho
+1314,Hicks PLC,Restaurant,Can Tho
+1315,"Davis, Adams and Miller",Restaurant,Ho Chi Minh
+1316,Peterson Inc,Fuel,Hue
+1317,Smith-Morgan,Coffee,Hai Phong
+1318,"Lowe, Hall and Mercer",Fuel,Can Tho
+1319,Wood Group,Hotel,Hue
+1320,"Silva, Wood and Moore",Fuel,Hanoi
+1321,"Robinson, Valenzuela and Lopez",Shopping,Da Nang
+1322,Little LLC,Shopping,Can Tho
+1323,Mckinney Inc,Shopping,Hue
+1324,"Murphy, Martinez and Potter",Hotel,Hanoi
+1325,Roberson-Thomas,Restaurant,Da Nang
+1326,Cortez-Hicks,Shopping,Ho Chi Minh
+1327,Wiley-Williams,Hotel,Ho Chi Minh
+1328,Whitney PLC,Hotel,Hanoi
+1329,Hines PLC,Restaurant,Da Nang
+1330,Davis-Harris,Shopping,Da Nang
+1331,Ellis-Irwin,Hotel,Can Tho
+1332,Jackson Ltd,Shopping,Hue
+1333,Moss-Jones,Fuel,Can Tho
+1334,"Harris, Cuevas and Wright",Coffee,Ho Chi Minh
+1335,Case-Cunningham,Coffee,Hanoi
+1336,Robertson LLC,Hotel,Hai Phong
+1337,Freeman Ltd,Coffee,Ho Chi Minh
+1338,Williams Inc,Supermarket,Da Nang
+1339,Diaz-Anderson,Coffee,Da Nang
+1340,Robinson PLC,Shopping,Can Tho
+1341,"Goodwin, Lopez and Strong",Hotel,Hue
+1342,Williams and Sons,Supermarket,Can Tho
+1343,Delgado Ltd,Supermarket,Can Tho
+1344,Hancock-Johnson,Shopping,Hanoi
+1345,Brady LLC,Coffee,Can Tho
+1346,May-Moore,Coffee,Ho Chi Minh
+1347,Davis LLC,Coffee,Can Tho
+1348,Hernandez Inc,Restaurant,Hai Phong
+1349,Jones and Sons,Fuel,Hanoi
+1350,Peters-Johnson,Shopping,Da Nang
+1351,Tran-Mendoza,Shopping,Hai Phong
+1352,Duncan-Sanchez,Fuel,Can Tho
+1353,"Bennett, Molina and Bailey",Restaurant,Can Tho
+1354,Farmer-Davis,Shopping,Da Nang
+1355,Myers and Sons,Coffee,Can Tho
+1356,Peters-Love,Shopping,Hanoi
+1357,Flores LLC,Supermarket,Hue
+1358,Dodson and Sons,Restaurant,Hai Phong
+1359,Moore-Fox,Supermarket,Hai Phong
+1360,Bowman-Levy,Fuel,Da Nang
+1361,Ward-Banks,Hotel,Hai Phong
+1362,"Berry, Reed and Alexander",Shopping,Hai Phong
+1363,Stewart-Chavez,Supermarket,Da Nang
+1364,Chaney and Sons,Fuel,Hanoi
+1365,"Thomas, Reynolds and York",Hotel,Hanoi
+1366,"Hunter, Galvan and Martin",Coffee,Hanoi
+1367,Holmes LLC,Hotel,Da Nang
+1368,Fisher Ltd,Restaurant,Ho Chi Minh
+1369,Harper-Hickman,Shopping,Hue
+1370,Manning Inc,Hotel,Da Nang
+1371,Mendoza Group,Hotel,Hue
+1372,"Randall, Warner and Schmitt",Fuel,Hue
+1373,Walker Inc,Hotel,Da Nang
+1374,"Castro, Mclaughlin and Medina",Hotel,Da Nang
+1375,"Lam, Herrera and King",Fuel,Hue
+1376,"Lewis, Wilson and Nichols",Coffee,Can Tho
+1377,Newman LLC,Fuel,Ho Chi Minh
+1378,Jordan-Gonzalez,Coffee,Da Nang
+1379,Beard Group,Shopping,Can Tho
+1380,Lowe-Perez,Hotel,Hanoi
+1381,"Li, Smith and Lewis",Coffee,Hanoi
+1382,Ortiz and Sons,Hotel,Hai Phong
+1383,"Woodward, Hughes and Lewis",Shopping,Can Tho
+1384,Hogan LLC,Coffee,Hue
+1385,Newton-Clark,Hotel,Ho Chi Minh
+1386,"Hopkins, Perry and Parker",Supermarket,Hue
+1387,Richards and Sons,Shopping,Da Nang
+1388,Powell-Martinez,Shopping,Ho Chi Minh
+1389,"Garcia, Price and Wheeler",Supermarket,Hue
+1390,George Inc,Shopping,Hue
+1391,Walsh-Wall,Restaurant,Can Tho
+1392,"Curtis, Hart and Williams",Fuel,Can Tho
+1393,Black-Moore,Supermarket,Hanoi
+1394,Cobb-Mullen,Fuel,Hai Phong
+1395,"Strong, Smith and Butler",Supermarket,Da Nang
+1396,Jimenez-Ortega,Supermarket,Hanoi
+1397,Young-White,Supermarket,Ho Chi Minh
+1398,"Lewis, Jackson and Jenkins",Coffee,Hue
+1399,Franco Inc,Restaurant,Hai Phong
+1400,"Brown, Williamson and Wells",Fuel,Hanoi
+1401,"Chambers, Stone and Schultz",Supermarket,Da Nang
+1402,Sharp-Chang,Supermarket,Can Tho
+1403,Wong Inc,Coffee,Can Tho
+1404,Warren PLC,Restaurant,Ho Chi Minh
+1405,"Rasmussen, Martin and Hawkins",Coffee,Hai Phong
+1406,Dunlap-Haley,Supermarket,Hai Phong
+1407,Mooney Inc,Supermarket,Da Nang
+1408,"Cummings, Humphrey and Mendez",Hotel,Can Tho
+1409,"Morgan, Rodriguez and Santos",Hotel,Hai Phong
+1410,"Price, Hamilton and Pierce",Restaurant,Hue
+1411,Shea-Chavez,Fuel,Da Nang
+1412,Bauer-Evans,Supermarket,Da Nang
+1413,"Flynn, Cole and Roach",Fuel,Ho Chi Minh
+1414,Lee-Kent,Hotel,Hai Phong
+1415,Mccoy Ltd,Fuel,Hue
+1416,Smith-Brown,Shopping,Can Tho
+1417,Evans PLC,Fuel,Hue
+1418,Ramirez Group,Supermarket,Hai Phong
+1419,Rodriguez Ltd,Shopping,Ho Chi Minh
+1420,"Molina, Graham and Roberts",Shopping,Hai Phong
+1421,"Stone, Martin and Dillon",Supermarket,Hanoi
+1422,Jones-Duncan,Shopping,Hue
+1423,Hubbard LLC,Supermarket,Hue
+1424,Sampson and Sons,Supermarket,Hanoi
+1425,Rogers-Edwards,Shopping,Da Nang
+1426,Yoder-Sloan,Shopping,Hai Phong
+1427,"Bates, Martinez and Moss",Restaurant,Hai Phong
+1428,Allen PLC,Supermarket,Da Nang
+1429,Foster and Sons,Shopping,Da Nang
+1430,Francis-Gordon,Restaurant,Hanoi
+1431,Smith Inc,Supermarket,Can Tho
+1432,Hooper-Eaton,Restaurant,Hai Phong
+1433,Gentry-Reynolds,Fuel,Can Tho
+1434,Turner Inc,Hotel,Da Nang
+1435,"Higgins, Flynn and Taylor",Shopping,Hai Phong
+1436,Miles and Sons,Fuel,Can Tho
+1437,"Dean, Hernandez and Taylor",Restaurant,Da Nang
+1438,Hernandez-Jordan,Fuel,Ho Chi Minh
+1439,Gonzalez-Rodriguez,Coffee,Hai Phong
+1440,Kirk PLC,Shopping,Hue
+1441,Flynn PLC,Hotel,Hai Phong
+1442,Leonard-Dougherty,Coffee,Da Nang
+1443,"King, Castillo and Howard",Hotel,Hanoi
+1444,"Camacho, Jennings and Osborn",Fuel,Can Tho
+1445,"Flores, Rivera and Moore",Coffee,Da Nang
+1446,Livingston Ltd,Fuel,Da Nang
+1447,"Lane, Francis and West",Restaurant,Hanoi
+1448,"Jimenez, Roberts and Wallace",Supermarket,Hai Phong
+1449,"Hanson, Barrett and Sawyer",Fuel,Hue
+1450,"Brown, Valdez and Guzman",Fuel,Hue
+1451,"Wilkerson, Mann and Hayes",Shopping,Ho Chi Minh
+1452,Cline and Sons,Supermarket,Hue
+1453,"Parker, Day and Barton",Restaurant,Can Tho
+1454,Kelley-Brown,Shopping,Hai Phong
+1455,Matthews-Phelps,Hotel,Hanoi
+1456,Phillips PLC,Fuel,Hue
+1457,Pearson-Frye,Shopping,Ho Chi Minh
+1458,"Beck, Allen and Sandoval",Supermarket,Hue
+1459,"Arellano, Noble and Hancock",Supermarket,Da Nang
+1460,"Walker, Ball and Barnes",Fuel,Da Nang
+1461,Lester-Mcguire,Shopping,Can Tho
+1462,"Miles, Chapman and Campbell",Coffee,Hai Phong
+1463,Herrera PLC,Shopping,Ho Chi Minh
+1464,King and Sons,Fuel,Hue
+1465,"Vaughn, Booker and Gonzalez",Shopping,Da Nang
+1466,"Lee, Johnson and Chavez",Supermarket,Ho Chi Minh
+1467,"Williams, Deleon and Wong",Shopping,Hue
+1468,"Rasmussen, Wolf and Williams",Coffee,Da Nang
+1469,Chen-Reynolds,Hotel,Hue
+1470,"Barnes, Glenn and Ellis",Fuel,Can Tho
+1471,"Calderon, Mathis and Bautista",Shopping,Da Nang
+1472,Schroeder-Robinson,Hotel,Hue
+1473,Wilson-Davenport,Coffee,Hanoi
+1474,"Conrad, Murphy and Olson",Shopping,Hue
+1475,"Rodriguez, Greene and Santiago",Fuel,Ho Chi Minh
+1476,"Schroeder, Watson and Harris",Supermarket,Ho Chi Minh
+1477,Simmons Inc,Hotel,Da Nang
+1478,Collier and Sons,Hotel,Hanoi
+1479,Adams Ltd,Coffee,Hanoi
+1480,Johnson-Evans,Restaurant,Hai Phong
+1481,Henderson Ltd,Supermarket,Hanoi
+1482,"Moon, Christian and Baker",Fuel,Can Tho
+1483,Yang and Sons,Coffee,Hue
+1484,Jones-Mckee,Coffee,Hue
+1485,Mata-Scott,Coffee,Da Nang
+1486,Harding PLC,Fuel,Hai Phong
+1487,"Mcdonald, Lopez and Wagner",Shopping,Hai Phong
+1488,Patel-Smith,Fuel,Hanoi
+1489,"Medina, Olson and May",Supermarket,Da Nang
+1490,Bruce-Mathews,Fuel,Can Tho
+1491,Ferguson-Taylor,Shopping,Ho Chi Minh
+1492,Thompson-Bradshaw,Hotel,Ho Chi Minh
+1493,"Wright, Contreras and Krueger",Shopping,Ho Chi Minh
+1494,Jones-Clark,Hotel,Hai Phong
+1495,"Joseph, Anderson and Johnson",Restaurant,Da Nang
+1496,"Lopez, Rodriguez and Moore",Hotel,Hai Phong
+1497,"Melton, Nichols and Johnson",Hotel,Hanoi
+1498,Stanley-Evans,Coffee,Da Nang
+1499,Morales-Ellison,Supermarket,Hai Phong
+1500,"Mcgee, Barber and Newton",Supermarket,Hue
+1501,Calderon PLC,Fuel,Can Tho
+1502,"Hopkins, Rojas and Cunningham",Hotel,Da Nang
+1503,Castro PLC,Coffee,Hue
+1504,Hernandez-Griffin,Coffee,Can Tho
+1505,Griffin-Brown,Fuel,Hanoi
+1506,Cohen Inc,Fuel,Hue
+1507,"Williams, Gillespie and Castillo",Coffee,Ho Chi Minh
+1508,Welch PLC,Restaurant,Da Nang
+1509,Mason-Sharp,Fuel,Hai Phong
+1510,Rowland Ltd,Restaurant,Ho Chi Minh
+1511,Alexander PLC,Supermarket,Da Nang
+1512,Johnson Ltd,Supermarket,Da Nang
+1513,"Morales, Carter and Marquez",Supermarket,Can Tho
+1514,Thomas Group,Coffee,Hue
+1515,Marquez Group,Restaurant,Hanoi
+1516,"Mcdonald, Cantrell and Brown",Supermarket,Hanoi
+1517,Butler PLC,Restaurant,Hanoi
+1518,Padilla-Parks,Hotel,Da Nang
+1519,Mcdonald-Vang,Supermarket,Ho Chi Minh
+1520,Wilkins-Morales,Hotel,Hue
+1521,Webster PLC,Hotel,Da Nang
+1522,Lopez-Wilson,Restaurant,Can Tho
+1523,"Odonnell, Webb and Strickland",Hotel,Can Tho
+1524,Allen-Black,Hotel,Hanoi
+1525,"Harrison, Ramirez and Rivera",Coffee,Hanoi
+1526,"Lewis, Silva and Santana",Coffee,Ho Chi Minh
+1527,Owen-Fox,Hotel,Can Tho
+1528,"Rich, Hernandez and Lowe",Supermarket,Hai Phong
+1529,Washington LLC,Shopping,Hanoi
+1530,"Miller, Salazar and Daniels",Supermarket,Hue
+1531,Burke Inc,Hotel,Hanoi
+1532,Knox Inc,Fuel,Hai Phong
+1533,Crosby-Deleon,Hotel,Ho Chi Minh
+1534,Perez-Lawrence,Fuel,Can Tho
+1535,Mcconnell-Parks,Restaurant,Hanoi
+1536,Meyer-Green,Shopping,Hue
+1537,Lopez-Foster,Fuel,Hai Phong
+1538,"Zimmerman, Hill and Anderson",Fuel,Hai Phong
+1539,Willis-Perry,Shopping,Da Nang
+1540,"Young, Brown and Carrillo",Supermarket,Hai Phong
+1541,Morgan PLC,Shopping,Hanoi
+1542,"Murphy, Higgins and Pena",Fuel,Hanoi
+1543,Small Ltd,Restaurant,Hai Phong
+1544,Gonzalez Inc,Supermarket,Hanoi
+1545,Vazquez Group,Fuel,Ho Chi Minh
+1546,"Little, Kirk and Riley",Fuel,Hanoi
+1547,Soto Inc,Hotel,Hue
+1548,Martinez LLC,Coffee,Hue
+1549,Collins-Hart,Supermarket,Da Nang
+1550,Thomas-Chandler,Fuel,Hue
+1551,"Vazquez, Lewis and Smith",Shopping,Da Nang
+1552,"Bell, Anderson and Pierce",Restaurant,Ho Chi Minh
+1553,"Collins, Carter and Taylor",Coffee,Hanoi
+1554,Decker and Sons,Hotel,Hue
+1555,"Johnson, Miller and Turner",Hotel,Hanoi
+1556,Duncan-Carpenter,Restaurant,Hue
+1557,"Ray, Shelton and Johns",Supermarket,Can Tho
+1558,Brown-Joseph,Shopping,Ho Chi Minh
+1559,"Anderson, Martin and Zhang",Restaurant,Hai Phong
+1560,Maxwell-Shaw,Supermarket,Hai Phong
+1561,"Russell, Simpson and Sanchez",Coffee,Hue
+1562,Sims-Williamson,Coffee,Can Tho
+1563,Hunter Inc,Restaurant,Can Tho
+1564,"Arellano, Landry and Scott",Coffee,Da Nang
+1565,"Thomas, Smith and Mills",Hotel,Da Nang
+1566,Barr PLC,Hotel,Da Nang
+1567,May Inc,Hotel,Da Nang
+1568,Farley-Walsh,Hotel,Hai Phong
+1569,Day Inc,Shopping,Da Nang
+1570,Matthews Inc,Shopping,Hai Phong
+1571,Ramirez and Sons,Coffee,Can Tho
+1572,Bowen and Sons,Coffee,Can Tho
+1573,Lewis-Mercado,Restaurant,Hai Phong
+1574,King Group,Shopping,Can Tho
+1575,Moon-King,Fuel,Da Nang
+1576,Stuart-Mann,Restaurant,Ho Chi Minh
+1577,Vargas Group,Hotel,Hue
+1578,"Wagner, Roberts and French",Shopping,Da Nang
+1579,Boone-Goodwin,Supermarket,Can Tho
+1580,Rodriguez-Schmidt,Restaurant,Hanoi
+1581,"Curtis, Morales and Johnson",Fuel,Ho Chi Minh
+1582,Robbins LLC,Fuel,Hue
+1583,"Smith, Adams and Bailey",Coffee,Hai Phong
+1584,"Johnson, Zamora and Snyder",Restaurant,Ho Chi Minh
+1585,Bond-Bell,Shopping,Hanoi
+1586,Fuller Group,Fuel,Hai Phong
+1587,"Sexton, Richardson and Cummings",Hotel,Hue
+1588,Cruz Ltd,Supermarket,Hue
+1589,Byrd-Martinez,Fuel,Hai Phong
+1590,Smith Ltd,Fuel,Can Tho
+1591,Keith Ltd,Hotel,Hai Phong
+1592,Johnson PLC,Hotel,Ho Chi Minh
+1593,"Smith, Stanton and Holmes",Coffee,Hai Phong
+1594,"Shaw, Hill and Anderson",Coffee,Hai Phong
+1595,Swanson PLC,Supermarket,Hanoi
+1596,Jones-Miller,Coffee,Hanoi
+1597,Allen PLC,Restaurant,Hanoi
+1598,"Williams, White and Torres",Supermarket,Can Tho
+1599,"Tucker, Martinez and Patton",Fuel,Da Nang
+1600,"Baxter, Scott and Mayo",Restaurant,Hanoi
+1601,"Duncan, Allen and Edwards",Hotel,Can Tho
+1602,Stevenson Inc,Hotel,Ho Chi Minh
+1603,"Potts, Turner and Dixon",Hotel,Hanoi
+1604,Phillips Inc,Shopping,Da Nang
+1605,Dickerson Ltd,Restaurant,Can Tho
+1606,Adams-Grimes,Shopping,Da Nang
+1607,Olsen-Davis,Hotel,Ho Chi Minh
+1608,Monroe and Sons,Shopping,Hue
+1609,Franklin LLC,Restaurant,Ho Chi Minh
+1610,Simpson PLC,Coffee,Can Tho
+1611,Lucas Ltd,Shopping,Hanoi
+1612,"Rivers, Ortiz and Shaffer",Restaurant,Da Nang
+1613,Gordon Inc,Restaurant,Can Tho
+1614,"Olsen, Shaw and Flores",Supermarket,Hanoi
+1615,"Chen, Cole and Wilson",Hotel,Can Tho
+1616,Black-Robinson,Coffee,Hanoi
+1617,"Oconnor, Walker and Knight",Hotel,Can Tho
+1618,"Campbell, Edwards and Ellis",Fuel,Hue
+1619,Thomas Group,Hotel,Hanoi
+1620,"Fields, Jones and Johnson",Restaurant,Hai Phong
+1621,Harris Group,Fuel,Da Nang
+1622,"Cummings, Woods and Wells",Supermarket,Da Nang
+1623,Clark PLC,Shopping,Hue
+1624,Jones-Jones,Hotel,Ho Chi Minh
+1625,Lewis-Thomas,Supermarket,Hai Phong
+1626,Kelly Ltd,Fuel,Hue
+1627,Chambers-Thomas,Hotel,Hai Phong
+1628,Thomas-Jackson,Restaurant,Ho Chi Minh
+1629,Patterson Inc,Supermarket,Hue
+1630,Decker LLC,Hotel,Hanoi
+1631,Conley Group,Restaurant,Da Nang
+1632,Davis PLC,Hotel,Ho Chi Minh
+1633,"Lopez, Sweeney and Robertson",Hotel,Hue
+1634,Romero and Sons,Hotel,Hai Phong
+1635,"Thomas, Nichols and Bennett",Fuel,Can Tho
+1636,"Williams, Henderson and Miller",Supermarket,Ho Chi Minh
+1637,Spencer-Hoffman,Coffee,Ho Chi Minh
+1638,"Wall, Green and Thompson",Supermarket,Hanoi
+1639,"Salazar, Cochran and Brown",Hotel,Hai Phong
+1640,Manning Group,Hotel,Can Tho
+1641,Johnston-Martin,Supermarket,Ho Chi Minh
+1642,"Johnson, Hernandez and Estrada",Supermarket,Can Tho
+1643,Huerta-Young,Coffee,Can Tho
+1644,Nixon-Kelly,Shopping,Hue
+1645,Jordan-Oneal,Shopping,Da Nang
+1646,"Ewing, Gonzales and Strickland",Supermarket,Hue
+1647,Keller LLC,Fuel,Hai Phong
+1648,Smith Ltd,Shopping,Can Tho
+1649,Munoz-Osborne,Restaurant,Hai Phong
+1650,"Nelson, Rush and Poole",Shopping,Hanoi
+1651,"Green, Ruiz and Barker",Shopping,Can Tho
+1652,Garza-Davis,Hotel,Can Tho
+1653,Olson and Sons,Supermarket,Hue
+1654,"Jones, Gregory and Walters",Restaurant,Ho Chi Minh
+1655,"Ward, Lowe and Mendoza",Hotel,Hue
+1656,"Flores, Wilson and Myers",Coffee,Hai Phong
+1657,"Phillips, White and Morrison",Hotel,Ho Chi Minh
+1658,Thomas-Page,Hotel,Ho Chi Minh
+1659,"Adams, Taylor and Marshall",Hotel,Da Nang
+1660,Glenn PLC,Fuel,Hanoi
+1661,Rodriguez Inc,Coffee,Da Nang
+1662,Mendoza Inc,Coffee,Da Nang
+1663,Edwards Group,Supermarket,Hai Phong
+1664,Berry Ltd,Coffee,Da Nang
+1665,Smith-Contreras,Fuel,Hai Phong
+1666,Rice-Hill,Supermarket,Hanoi
+1667,Scott LLC,Hotel,Da Nang
+1668,"Smith, Murray and Jones",Supermarket,Da Nang
+1669,"Keller, Gibson and Rush",Restaurant,Ho Chi Minh
+1670,"Baker, Sanchez and Rios",Coffee,Can Tho
+1671,Franklin Ltd,Fuel,Hanoi
+1672,Rivera and Sons,Restaurant,Can Tho
+1673,Gardner PLC,Restaurant,Can Tho
+1674,"Navarro, Vega and Freeman",Supermarket,Ho Chi Minh
+1675,Burton-Meyers,Supermarket,Hue
+1676,Robinson-Henderson,Fuel,Can Tho
+1677,"Carroll, Rodriguez and Vega",Hotel,Ho Chi Minh
+1678,Wells PLC,Supermarket,Ho Chi Minh
+1679,"Turner, Keith and Casey",Coffee,Hai Phong
+1680,Smith-Welch,Supermarket,Hanoi
+1681,Long Group,Supermarket,Hanoi
+1682,Cobb-Ruiz,Shopping,Hue
+1683,"Wilson, Perkins and Curtis",Shopping,Ho Chi Minh
+1684,Holland and Sons,Restaurant,Can Tho
+1685,Brown-Ortiz,Supermarket,Hanoi
+1686,Weeks Ltd,Coffee,Ho Chi Minh
+1687,"Murillo, Schneider and Walker",Supermarket,Can Tho
+1688,Jackson and Sons,Hotel,Da Nang
+1689,Hampton-Dawson,Fuel,Hue
+1690,"Miller, Frazier and Bowen",Coffee,Hanoi
+1691,Moore Ltd,Fuel,Can Tho
+1692,Perkins-Wilson,Supermarket,Hue
+1693,Miller-Leon,Restaurant,Ho Chi Minh
+1694,"Molina, Scott and Mills",Shopping,Hue
+1695,Robbins-Harding,Supermarket,Da Nang
+1696,Montoya Inc,Hotel,Ho Chi Minh
+1697,Wheeler PLC,Restaurant,Hai Phong
+1698,"Hernandez, Gutierrez and Davis",Coffee,Hai Phong
+1699,Harris Inc,Hotel,Da Nang
+1700,Frost-Taylor,Supermarket,Hue
+1701,"Padilla, Rhodes and Davis",Shopping,Da Nang
+1702,Watson-Anderson,Hotel,Can Tho
+1703,Herring Ltd,Fuel,Da Nang
+1704,Martinez-Gonzales,Fuel,Hanoi
+1705,"Patterson, Nguyen and Decker",Shopping,Da Nang
+1706,Anderson Inc,Supermarket,Ho Chi Minh
+1707,Case LLC,Coffee,Ho Chi Minh
+1708,Murray-Duncan,Coffee,Hanoi
+1709,Perry and Sons,Supermarket,Hai Phong
+1710,"Ortiz, Garcia and Wyatt",Fuel,Hanoi
+1711,Brown-Carrillo,Hotel,Can Tho
+1712,Rodriguez-Myers,Shopping,Hanoi
+1713,Owens LLC,Coffee,Hue
+1714,"Wilson, Barnes and Wheeler",Restaurant,Da Nang
+1715,Gonzalez Inc,Hotel,Can Tho
+1716,Perez-Brown,Fuel,Can Tho
+1717,Petersen LLC,Fuel,Hai Phong
+1718,Bryant-Cooper,Restaurant,Hai Phong
+1719,Day-Pena,Restaurant,Da Nang
+1720,"Foster, Farrell and Mayo",Fuel,Hai Phong
+1721,"Reynolds, Nelson and Mcdaniel",Coffee,Ho Chi Minh
+1722,Buchanan-Rodriguez,Hotel,Da Nang
+1723,Hardin-Mosley,Coffee,Da Nang
+1724,Mitchell-Hernandez,Supermarket,Can Tho
+1725,"Pitts, Lyons and Young",Fuel,Hanoi
+1726,Gilmore Ltd,Fuel,Hai Phong
+1727,Gonzalez-Parker,Hotel,Da Nang
+1728,"Peters, Roth and Christian",Shopping,Da Nang
+1729,Lopez Inc,Supermarket,Can Tho
+1730,Myers-Bernard,Fuel,Can Tho
+1731,"Beasley, Roy and Parrish",Supermarket,Hue
+1732,Scott-Ramirez,Shopping,Ho Chi Minh
+1733,"Gonzalez, Gonzales and Hunt",Supermarket,Hai Phong
+1734,Cochran Group,Supermarket,Ho Chi Minh
+1735,Torres LLC,Coffee,Ho Chi Minh
+1736,Craig Ltd,Supermarket,Hai Phong
+1737,"Moore, Brown and Romero",Shopping,Ho Chi Minh
+1738,"Mcneil, Lee and Bryan",Supermarket,Da Nang
+1739,Cabrera Inc,Coffee,Hai Phong
+1740,"Clark, Gonzalez and Walker",Fuel,Can Tho
+1741,Sanders and Sons,Shopping,Hai Phong
+1742,"Chaney, Bonilla and Smith",Restaurant,Hai Phong
+1743,"Alexander, Matthews and Yang",Shopping,Da Nang
+1744,Cannon-Brown,Fuel,Hai Phong
+1745,Gray-Perry,Hotel,Ho Chi Minh
+1746,"Raymond, Long and Stuart",Fuel,Hai Phong
+1747,Velez-Taylor,Coffee,Da Nang
+1748,Sanchez-Young,Supermarket,Hanoi
+1749,Powers Inc,Shopping,Da Nang
+1750,"Tran, Tate and Walker",Hotel,Ho Chi Minh
+1751,Barnes-Eaton,Hotel,Hue
+1752,Gibson PLC,Restaurant,Can Tho
+1753,Perez Group,Supermarket,Ho Chi Minh
+1754,"King, Mejia and Daniels",Restaurant,Da Nang
+1755,Ingram-Wolfe,Supermarket,Can Tho
+1756,"Foster, Hooper and Kelly",Shopping,Ho Chi Minh
+1757,Wilson Ltd,Restaurant,Can Tho
+1758,Walker and Sons,Shopping,Da Nang
+1759,"Turner, Baker and Rose",Hotel,Hanoi
+1760,Hodges-Rosales,Shopping,Hue
+1761,"Williams, Brown and Becker",Supermarket,Hue
+1762,Giles-Smith,Hotel,Hanoi
+1763,House-Brown,Restaurant,Hue
+1764,Carroll LLC,Fuel,Da Nang
+1765,Reynolds Ltd,Restaurant,Hanoi
+1766,Jenkins Ltd,Fuel,Can Tho
+1767,"Price, Bell and Richardson",Supermarket,Hue
+1768,Ward Ltd,Shopping,Hue
+1769,Bautista-Ortiz,Hotel,Hue
+1770,Sanders Inc,Restaurant,Hai Phong
+1771,Brandt-Huff,Coffee,Da Nang
+1772,Combs-Powell,Shopping,Da Nang
+1773,Johnson PLC,Supermarket,Hanoi
+1774,Stevens Inc,Shopping,Hai Phong
+1775,Estrada-Gonzales,Hotel,Hue
+1776,"Banks, Gonzalez and Myers",Hotel,Da Nang
+1777,Rodriguez-Michael,Shopping,Da Nang
+1778,Hopkins Group,Fuel,Ho Chi Minh
+1779,Taylor-Diaz,Shopping,Ho Chi Minh
+1780,Henderson-Murphy,Fuel,Da Nang
+1781,Graves LLC,Fuel,Da Nang
+1782,Hall-Brown,Hotel,Hai Phong
+1783,Boyd-Anderson,Shopping,Can Tho
+1784,Perez and Sons,Coffee,Hanoi
+1785,Tyler-Davis,Shopping,Hue
+1786,Alvarado Inc,Restaurant,Hanoi
+1787,Wagner-Marshall,Coffee,Hue
+1788,"Dunlap, Ward and Harvey",Coffee,Hai Phong
+1789,Clark LLC,Hotel,Da Nang
+1790,Cain Inc,Fuel,Hanoi
+1791,"Gross, Wheeler and Farrell",Restaurant,Ho Chi Minh
+1792,"Navarro, Mullins and Tate",Fuel,Hanoi
+1793,"Park, Taylor and Green",Hotel,Hai Phong
+1794,Ibarra-Miller,Coffee,Can Tho
+1795,Schmidt and Sons,Supermarket,Hue
+1796,"Castillo, Schmidt and Owen",Coffee,Hai Phong
+1797,"Aguilar, Cole and Jones",Hotel,Hue
+1798,Adams-Durham,Shopping,Can Tho
+1799,Johnson Inc,Fuel,Hue
+1800,Brown-Mullins,Fuel,Da Nang
+1801,Barnes LLC,Restaurant,Da Nang
+1802,Long PLC,Restaurant,Hanoi
+1803,Garza and Sons,Fuel,Can Tho
+1804,Vance and Sons,Fuel,Hai Phong
+1805,Stone-Walker,Coffee,Hue
+1806,"Fox, Manning and Johnson",Coffee,Hue
+1807,Hanson-Hopkins,Hotel,Hue
+1808,Michael Group,Fuel,Can Tho
+1809,Jimenez and Sons,Fuel,Hue
+1810,"Barnes, Castaneda and Adams",Hotel,Hai Phong
+1811,Young-Long,Hotel,Da Nang
+1812,"Murray, Fitzgerald and Alvarez",Shopping,Ho Chi Minh
+1813,"Vasquez, Allen and Smith",Restaurant,Da Nang
+1814,Durham and Sons,Hotel,Hue
+1815,"Fields, Snow and Sanchez",Coffee,Hanoi
+1816,Oneill Ltd,Supermarket,Hanoi
+1817,Allen PLC,Supermarket,Hanoi
+1818,Diaz-Thomas,Restaurant,Can Tho
+1819,"Alvarado, Dixon and Snyder",Shopping,Hanoi
+1820,"Daniel, Coffey and Evans",Shopping,Hanoi
+1821,Bush and Sons,Shopping,Hue
+1822,"Jenkins, Jones and Cohen",Hotel,Hanoi
+1823,Medina-Davis,Restaurant,Can Tho
+1824,"Marshall, Rodriguez and King",Restaurant,Can Tho
+1825,"Fletcher, Reynolds and Nguyen",Shopping,Hanoi
+1826,Dennis-Mosley,Restaurant,Hai Phong
+1827,"Sexton, Chapman and Carney",Supermarket,Da Nang
+1828,"Jefferson, Jefferson and Smith",Shopping,Hanoi
+1829,Daniel and Sons,Restaurant,Hue
+1830,Garcia and Sons,Restaurant,Hue
+1831,Green PLC,Hotel,Hue
+1832,Mitchell and Sons,Restaurant,Da Nang
+1833,Cook-Cole,Hotel,Hai Phong
+1834,Cohen-Dyer,Supermarket,Hue
+1835,Luna-Roberts,Supermarket,Can Tho
+1836,Ochoa PLC,Hotel,Can Tho
+1837,"Ward, Lawrence and Moore",Fuel,Hue
+1838,Burke-Logan,Supermarket,Hai Phong
+1839,Whitney Group,Fuel,Hanoi
+1840,Velasquez and Sons,Coffee,Ho Chi Minh
+1841,Romero Ltd,Hotel,Can Tho
+1842,Kelly PLC,Hotel,Ho Chi Minh
+1843,Knapp PLC,Restaurant,Ho Chi Minh
+1844,Roberts Inc,Coffee,Hue
+1845,Fuentes-Cortez,Hotel,Hai Phong
+1846,"Chandler, Moore and Gibson",Shopping,Can Tho
+1847,Brown-Medina,Coffee,Da Nang
+1848,Howard-Olsen,Shopping,Hue
+1849,"Mcdonald, Watson and Thompson",Restaurant,Ho Chi Minh
+1850,"Ramirez, Price and Holder",Shopping,Ho Chi Minh
+1851,Smith Group,Restaurant,Hue
+1852,Gross LLC,Shopping,Hue
+1853,Smith-Kramer,Fuel,Hanoi
+1854,Pena-Lewis,Shopping,Da Nang
+1855,Mejia-Clark,Shopping,Can Tho
+1856,"Johnson, Woodward and Sanders",Shopping,Ho Chi Minh
+1857,Harvey-Ramos,Hotel,Can Tho
+1858,"Hobbs, Wright and Davis",Restaurant,Da Nang
+1859,West Ltd,Shopping,Hue
+1860,"Martin, Nicholson and Lang",Restaurant,Hue
+1861,Martinez-Fitzgerald,Shopping,Can Tho
+1862,Ward Ltd,Shopping,Da Nang
+1863,Smith-Curry,Shopping,Hai Phong
+1864,Hubbard-Jackson,Supermarket,Hai Phong
+1865,"Cook, Liu and Short",Coffee,Hanoi
+1866,"Barnett, Paul and Clark",Shopping,Ho Chi Minh
+1867,Garrison-Wolf,Supermarket,Can Tho
+1868,Sanchez PLC,Coffee,Can Tho
+1869,Osborne-Hughes,Supermarket,Can Tho
+1870,"Payne, Brown and Hernandez",Restaurant,Da Nang
+1871,Harris Group,Supermarket,Can Tho
+1872,West Group,Fuel,Hue
+1873,Henderson LLC,Coffee,Da Nang
+1874,Hernandez-Griffin,Supermarket,Can Tho
+1875,Farrell-Hicks,Restaurant,Can Tho
+1876,"Brown, Morgan and Baker",Shopping,Hue
+1877,Frank-Mccarthy,Restaurant,Can Tho
+1878,Quinn and Sons,Supermarket,Da Nang
+1879,Higgins-Brown,Fuel,Can Tho
+1880,Moore and Sons,Hotel,Hue
+1881,Kaufman-Delacruz,Restaurant,Ho Chi Minh
+1882,"Tucker, Butler and Mitchell",Fuel,Can Tho
+1883,Velazquez-Boyd,Restaurant,Hue
+1884,Soto Ltd,Fuel,Hue
+1885,Ortega Ltd,Restaurant,Hue
+1886,Howe Group,Fuel,Da Nang
+1887,Mayo-Herrera,Hotel,Ho Chi Minh
+1888,"Hall, Reyes and Thomas",Fuel,Can Tho
+1889,Johns-Boyd,Restaurant,Da Nang
+1890,Mayer-Evans,Supermarket,Ho Chi Minh
+1891,Wall-Cooper,Supermarket,Hue
+1892,Wagner-Pierce,Coffee,Hai Phong
+1893,"Rodgers, Hill and Mosley",Hotel,Ho Chi Minh
+1894,"Ortiz, Griffith and Nguyen",Hotel,Hai Phong
+1895,Mathis-Rogers,Shopping,Hai Phong
+1896,"Kelly, Vasquez and Crane",Hotel,Hanoi
+1897,"Aguilar, Hines and Velazquez",Fuel,Can Tho
+1898,Alexander-Sanchez,Shopping,Da Nang
+1899,"Rivera, Roberts and Knight",Coffee,Hai Phong
+1900,Perez PLC,Restaurant,Hai Phong
+1901,Morgan Group,Supermarket,Hai Phong
+1902,Elliott-Buck,Fuel,Hai Phong
+1903,Reyes and Sons,Hotel,Hanoi
+1904,Smith LLC,Restaurant,Hue
+1905,Gregory-Norton,Supermarket,Hai Phong
+1906,White-Garrett,Hotel,Ho Chi Minh
+1907,"Brown, Johnson and Neal",Coffee,Hue
+1908,"Morton, Rodriguez and Hayes",Supermarket,Hanoi
+1909,"Ward, Miller and Hernandez",Coffee,Hue
+1910,Lucas-Flores,Shopping,Hanoi
+1911,"Stephenson, Barnes and Moon",Fuel,Hai Phong
+1912,Conley-Hines,Shopping,Da Nang
+1913,Mason-Hawkins,Supermarket,Hai Phong
+1914,Park-Brown,Restaurant,Ho Chi Minh
+1915,Jones Inc,Coffee,Da Nang
+1916,Cervantes-Jackson,Coffee,Hai Phong
+1917,Barrett and Sons,Fuel,Ho Chi Minh
+1918,Tucker-King,Hotel,Ho Chi Minh
+1919,Hardy-Morgan,Restaurant,Hanoi
+1920,Jimenez-Lewis,Restaurant,Hai Phong
+1921,"Williams, Phillips and Vincent",Supermarket,Hue
+1922,Lucas LLC,Fuel,Hanoi
+1923,"Ryan, Hardy and Morales",Shopping,Ho Chi Minh
+1924,"Lang, White and Dixon",Coffee,Ho Chi Minh
+1925,Harris Inc,Coffee,Hanoi
+1926,Jimenez Group,Restaurant,Hue
+1927,Rivas-Craig,Restaurant,Ho Chi Minh
+1928,Miller Ltd,Shopping,Can Tho
+1929,Porter LLC,Coffee,Can Tho
+1930,Burnett PLC,Restaurant,Can Tho
+1931,Sullivan Ltd,Restaurant,Can Tho
+1932,"Anderson, Williams and Collins",Restaurant,Can Tho
+1933,"Nichols, Travis and Fitzgerald",Coffee,Hue
+1934,"Johnson, Brown and Brown",Supermarket,Can Tho
+1935,King and Sons,Hotel,Can Tho
+1936,"Lowery, Gilbert and Guerrero",Hotel,Hue
+1937,Santiago-Bradford,Supermarket,Da Nang
+1938,Jackson Group,Coffee,Hanoi
+1939,"Brown, Davis and Taylor",Restaurant,Hai Phong
+1940,"Watkins, Tyler and Brown",Coffee,Da Nang
+1941,Harvey-Wright,Supermarket,Da Nang
+1942,"Edwards, Strickland and Michael",Shopping,Can Tho
+1943,Zuniga Group,Coffee,Hanoi
+1944,Fletcher Ltd,Coffee,Hanoi
+1945,Hill and Sons,Coffee,Can Tho
+1946,Dalton-King,Supermarket,Can Tho
+1947,"Zhang, Scott and Gonzalez",Fuel,Da Nang
+1948,"Rangel, Simmons and Sherman",Shopping,Hanoi
+1949,Rollins and Sons,Supermarket,Da Nang
+1950,Hernandez PLC,Hotel,Hanoi
+1951,Medina and Sons,Fuel,Hue
+1952,Potts Inc,Restaurant,Hanoi
+1953,Watkins-Cabrera,Fuel,Ho Chi Minh
+1954,"Moyer, Sanchez and Brown",Fuel,Ho Chi Minh
+1955,Avila-Erickson,Fuel,Can Tho
+1956,Benson Ltd,Fuel,Hanoi
+1957,Dunn-Williams,Shopping,Ho Chi Minh
+1958,"Baker, Horn and Mckinney",Fuel,Can Tho
+1959,Smith PLC,Coffee,Hai Phong
+1960,Oneal-Barrett,Fuel,Da Nang
+1961,Wilcox-Ross,Shopping,Can Tho
+1962,Holland and Sons,Fuel,Hai Phong
+1963,Kidd-Armstrong,Shopping,Can Tho
+1964,Scott PLC,Hotel,Can Tho
+1965,"Parker, Smith and Murray",Shopping,Hanoi
+1966,Davis LLC,Fuel,Can Tho
+1967,Kelley PLC,Supermarket,Ho Chi Minh
+1968,"Swanson, Wheeler and Smith",Fuel,Hue
+1969,"Guerrero, Murray and Oneill",Supermarket,Hanoi
+1970,Humphrey-Schneider,Supermarket,Hanoi
+1971,"Webster, Richardson and Lopez",Hotel,Can Tho
+1972,"Hill, Shaw and Moore",Supermarket,Hanoi
+1973,"Murillo, Camacho and Hernandez",Restaurant,Hanoi
+1974,Little-Davidson,Coffee,Can Tho
+1975,Galloway-Santiago,Fuel,Hue
+1976,"Wright, Rush and Young",Fuel,Hue
+1977,Herring-Ochoa,Hotel,Ho Chi Minh
+1978,"Cox, Lewis and Garrison",Restaurant,Can Tho
+1979,"Morris, Dean and Trevino",Shopping,Da Nang
+1980,Black-Walker,Restaurant,Can Tho
+1981,Briggs-Larsen,Restaurant,Hanoi
+1982,Garcia Group,Hotel,Ho Chi Minh
+1983,"Rodriguez, Wood and Neal",Shopping,Can Tho
+1984,"Wood, Holloway and Brock",Fuel,Hai Phong
+1985,"Tran, Thomas and Trujillo",Shopping,Ho Chi Minh
+1986,Bell LLC,Supermarket,Da Nang
+1987,Woods-Yang,Supermarket,Can Tho
+1988,Moore and Sons,Coffee,Hue
+1989,"Bond, Tyler and Cunningham",Supermarket,Hai Phong
+1990,Jones Group,Shopping,Ho Chi Minh
+1991,Myers Inc,Hotel,Hai Phong
+1992,Olson and Sons,Fuel,Hue
+1993,Cole PLC,Restaurant,Ho Chi Minh
+1994,Turner LLC,Supermarket,Hue
+1995,Gardner-West,Fuel,Da Nang
+1996,Hawkins Inc,Shopping,Hai Phong
+1997,Moore-Villa,Restaurant,Ho Chi Minh
+1998,"Campos, Clark and Reed",Fuel,Can Tho
+1999,"Wolfe, Smith and Harris",Coffee,Hai Phong
+2000,Silva-Morrison,Coffee,Hue
