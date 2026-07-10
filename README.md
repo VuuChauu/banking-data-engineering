@@ -17,6 +17,7 @@ The pipeline includes:
 - Star Schema data modeling
 - Automated data quality validation
 - Apache Airflow workflow orchestration
+- Power BI dashboards for business insights
 - Dockerized deployment
 
 The primary objective is to demonstrate an end-to-end Data Engineering workflow suitable for analytical reporting and business intelligence.
@@ -61,6 +62,9 @@ The primary objective is to demonstrate an end-to-end Data Engineering workflow 
                                     |
                                     ▼
                          Apache Airflow Scheduler
+                                    |
+                                    ▼
+                     Power BI Interactive Dashboards
 ```
 
 ---
@@ -75,6 +79,7 @@ The primary objective is to demonstrate an end-to-end Data Engineering workflow 
 | SQL | PostgreSQL SQL |
 | Cloud Storage | AWS S3 |
 | Workflow Orchestration | Apache Airflow |
+|Business Intelligence | Power BI |
 | Containerization | Docker & Docker Compose |
 | AWS SDK | Boto3 |
 | Database Driver | Psycopg2 |
@@ -105,6 +110,8 @@ banking-data-engineering/
 │   └── quality/
 │
 ├── docker/
+|
+├── powerbi/
 │
 ├── scripts/
 │   ├── aws/
@@ -182,6 +189,7 @@ The pipeline executes the following workflow:
 7. Analytics views are created for reporting.
 8. Automated quality checks validate warehouse integrity.
 9. Apache Airflow orchestrates the complete ETL process.
+10. Power BI connects to the warehouse for reporting and visualization.
 
 ---
 
@@ -236,52 +244,59 @@ These checks help maintain consistency and reliability throughout the ETL pipeli
 The Airflow DAG orchestrates the complete ETL process:
 
 ```text
-Upload to S3
-      │
-      ▼
-Download from S3
-      │
-      ▼
-Load CSV to PostgreSQL
-      │
-      ▼
-Refresh Data Warehouse
-      │
-      ▼
-Run Data Quality Checks
+Upload CSV to AWS S3
+          │
+          ▼
+Download Files
+          │
+          ▼
+Load to PostgreSQL Staging
+          │
+          ▼
+SQL Warehouse Transformation
+          │
+          ▼
+Analytics Views
+          │
+          ▼
+Data Quality Validation
+          │
+          ▼
+Power BI Dashboard Refresh
 ```
 
 Each task is executed sequentially with dependency management and execution logging.
 
 ---
 
-# 10. Key Features
+# 10. Power BI Dashboards
 
-- End-to-End ETL Pipeline
-- AWS S3 Data Lake Integration
-- PostgreSQL Data Warehouse
-- Star Schema Modeling
-- SQL-Based Transformations
-- Automated Data Quality Validation
-- Apache Airflow Orchestration
-- Dockerized Deployment
-- Centralized Logging
-- Modular Project Structure
+The project includes two interactive dashboards built on top of the Data Warehouse.
 
----
+Banking Customer Overview
 
-# 11. Future Enhancements
+Provides customer-centric insights, including:
 
-Potential improvements include:
+Total Customers
+Total Accounts
+Customer Balance Distribution
+Average Account Balance
+Customer Segmentation
+Banking Transaction Analytics
 
-- Incremental ETL Processing
-- Change Data Capture (CDC)
-- dbt Transformation Framework
-- Great Expectations
-- Apache Spark Processing
-- Kafka Streaming Integration
-- Amazon Redshift
-- Snowflake Data Warehouse
-- CI/CD Pipeline with GitHub Actions
+Provides transaction monitoring and operational insights:
 
----
+Total Transactions
+Total Transaction Volume
+Monthly Transaction Trends
+Transaction Types
+Channel Performance
+Branch Performance
+Transaction Status Analysis
+
+# 11. Dashboard Preview
+## Banking Customer Overview
+![alt text](<images/Banking Customer Overview.png>)
+
+## Banking Transaction Analytics
+![alt text](<images/Banking Transaction Analytics.png>)
